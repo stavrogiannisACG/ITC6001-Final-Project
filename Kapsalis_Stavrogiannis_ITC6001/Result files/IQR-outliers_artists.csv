@@ -1,0 +1,2494 @@
+name,listening count,Z-score,IQR_meth
+Britney Spears,2393140,70.07,True
+Depeche Mode,1301308,38.05,True
+Lady Gaga,1291387,37.76,True
+Christina Aguilera,1058405,30.92,True
+Paramore,963449,28.14,True
+Madonna,921198,26.9,True
+Rihanna,905423,26.44,True
+Shakira,688529,20.08,True
+The Beatles,662116,19.3,True
+Katy Perry,532545,15.5,True
+Avril Lavigne,525844,15.31,True
+Taylor Swift,525292,15.29,True
+Evanescence,513476,14.94,True
+Glee Cast,506453,14.74,True
+Beyoncé,499318,14.53,True
+U2,493024,14.34,True
+Miley Cyrus,489065,14.23,True
+30 Seconds to Mars,485532,14.12,True
+Muse,485076,14.11,True
+Pink Floyd,466104,13.55,True
+Kylie Minogue,449292,13.06,True
+Radiohead,385306,11.18,True
+Ke$ha,384405,11.16,True
+Mariah Carey,384307,11.16,True
+Metallica,371916,10.79,True
+Iron Maiden,368710,10.7,True
+Thalía,350035,10.15,True
+Duran Duran,348919,10.12,True
+Coldplay,330757,9.58,True
+Eminem,321011,9.3,True
+Blur,318221,9.22,True
+Michael Jackson,296882,8.59,True
+Arctic Monkeys,288520,8.35,True
+System of a Down,277397,8.02,True
+Linkin Park,265362,7.67,True
+Kelly Clarkson,253027,7.31,True
+Pearl Jam,251440,7.26,True
+Placebo,245878,7.1,True
+In Flames,237148,6.84,True
+All Time Low,215777,6.21,True
+Amy Winehouse,213103,6.13,True
+P!nk,207761,5.98,True
+a-ha,205195,5.9,True
+Led Zeppelin,203665,5.86,True
+Björk,202178,5.81,True
+Avenged Sevenfold,200949,5.78,True
+Justin Bieber,200027,5.75,True
+The Killers,191979,5.51,True
+Nirvana,190232,5.46,True
+Black Eyed Peas,188634,5.42,True
+Daft Punk,176043,5.05,True
+Ashley Tisdale,166644,4.77,True
+Oasis,165975,4.75,True
+Leona Lewis,162288,4.64,True
+Nine Inch Nails,160317,4.59,True
+My Chemical Romance,159733,4.57,True
+Green Day,155321,4.44,True
+Backstreet Boys,153101,4.37,True
+The Cure,151103,4.32,True
+Kings of Leon,148452,4.24,True
+Jennifer Lopez,144710,4.13,True
+Demi Lovato,139378,3.97,True
+The Pretty Reckless,138049,3.93,True
+Sarah Brightman,137581,3.92,True
+Sigur Rós,133955,3.81,True
+Guns N' Roses,133931,3.81,True
+David Bowie,133511,3.8,True
+Black Sabbath,131397,3.74,True
+The Pussycat Dolls,130855,3.72,True
+The Strokes,130227,3.7,True
+Rammstein,129745,3.69,True
+Lily Allen,129352,3.68,True
+Carrie Underwood,126314,3.59,True
+Hilary Duff,123682,3.51,True
+Janet Jackson,120665,3.42,True
+Panic! At the Disco,120336,3.41,True
+Alanis Morissette,117229,3.32,True
+Red Hot Chili Peppers,116768,3.31,True
+Adam Lambert,115538,3.27,True
+The Veronicas,114690,3.25,True
+Queen,114505,3.24,True
+Bright Eyes,113631,3.22,True
+Florence + the Machine,113467,3.21,True
+Nelly Furtado,110218,3.12,True
+Selena Gomez & the Scene,110123,3.11,True
+Megadeth,102662,2.9,True
+blink-182,102334,2.89,True
+Los Hermanos,100819,2.84,True
+Death Cab for Cutie,100298,2.83,True
+倖田來未,99845,2.81,True
+AC/DC,99820,2.81,True
+Joy Division,99296,2.8,True
+Enrique Iglesias,97089,2.73,True
+50 Cent,96353,2.71,True
+Marilyn Manson,96201,2.71,True
+The Doors,95880,2.7,True
+Cyndi Lauper,94551,2.66,True
+Kanye West,94501,2.66,True
+The Kooks,94398,2.65,True
+3OH!3,94179,2.65,True
+Ashlee Simpson,93828,2.64,True
+Pet Shop Boys,91869,2.58,True
+The Smiths,91740,2.58,True
+Justin Timberlake,91169,2.56,True
+Alicia Keys,91066,2.56,True
+A Day to Remember,90365,2.53,True
+The Devil Wears Prada,90154,2.53,True
+Porcupine Tree,88594,2.48,True
+The Smashing Pumpkins,88270,2.47,True
+Foo Fighters,88086,2.47,True
+Wanessa,87617,2.45,True
+The Rolling Stones,87432,2.45,True
+David Archuleta,86342,2.42,True
+MGMT,86195,2.41,True
+Lindsay Lohan,85160,2.38,True
+McFly,83954,2.35,True
+Céline Dion,83373,2.33,True
+Erasure,83206,2.33,True
+Nightwish,83061,2.32,True
+Franz Ferdinand,82999,2.32,True
+Interpol,81822,2.28,True
+Girls Aloud,80222,2.24,True
+Rise Against,80184,2.24,True
+Opeth,79847,2.23,True
+Fall Out Boy,79486,2.22,True
+Bring Me The Horizon,78578,2.19,True
+Slipknot,78363,2.18,True
+Within Temptation,78342,2.18,True
+Enigma,77046,2.14,True
+Elvis Presley,76175,2.12,True
+Tool,76012,2.11,True
+Keane,75804,2.11,True
+Flyleaf,75634,2.1,True
+Leighton Meester,75372,2.1,True
+Adele,75169,2.09,True
+Brandy,74834,2.08,True
+Boards of Canada,74039,2.06,True
+Ramones,73961,2.05,True
+Nicole Scherzinger,73597,2.04,True
+Jordin Sparks,72962,2.02,True
+Matanza,71710,1.99,True
+HIM,71488,1.98,True
+Escape The Fate,71434,1.98,True
+Lifehouse,71250,1.97,True
+Good Charlotte,70828,1.96,True
+Fresno,70589,1.96,True
+John Mayer,70360,1.95,True
+Children of Bodom,70314,1.95,True
+Queens of the Stone Age,69833,1.93,True
+Gorillaz,69629,1.93,True
+The Birthday Massacre,68917,1.91,True
+Three Days Grace,68306,1.89,True
+Ciara,67979,1.88,True
+Cheryl Cole,67822,1.87,True
+New Order,67259,1.86,True
+OneRepublic,67187,1.86,True
+Mylène Farmer,66688,1.84,True
+Gwen Stefani,65902,1.82,True
+Dream Theater,65886,1.82,True
+Regina Spektor,65641,1.81,True
+Tokio Hotel,65344,1.8,True
+Bob Dylan,65145,1.8,True
+Incubus,64897,1.79,True
+Jesse McCartney,64596,1.78,True
+SHINee,64256,1.77,True
+t.A.T.u.,63661,1.75,True
+David Guetta,63582,1.75,True
+Robyn,63510,1.75,True
+Deftones,62933,1.73,True
+Pantera,62838,1.73,True
+Arcade Fire,62735,1.72,True
+Slayer,62107,1.71,True
+Jonas Brothers,61849,1.7,True
+Kerli,61748,1.7,True
+The Used,61679,1.69,True
+As I Lay Dying,61163,1.68,True
+浜崎あゆみ,60167,1.65,True
+Crystal Castles,59938,1.64,True
+Elliott Smith,59821,1.64,True
+Sugababes,59353,1.63,True
+The Offspring,58965,1.61,True
+The Who,58438,1.6,True
+Pixie Lott,58312,1.59,True
+Korn,58163,1.59,True
+Snow Patrol,57847,1.58,True
+Akon,57537,1.57,True
+Maroon 5,57009,1.56,True
+Timbaland,56599,1.54,True
+Tegan and Sara,56006,1.53,True
+Dave Gahan,55944,1.53,True
+Sum 41,55683,1.52,True
+Enter Shikari,55642,1.52,True
+Cobra Starship,55463,1.51,True
+R.E.M.,55137,1.5,True
+The Saturdays,54909,1.5,True
+Robbie Williams,54825,1.49,True
+BoA,54663,1.49,True
+Goldfrapp,54597,1.49,True
+Mika,53918,1.47,True
+A Perfect Circle,53915,1.47,True
+Nicki Minaj,53353,1.45,True
+Yeah Yeah Yeahs,53054,1.44,True
+Breaking Benjamin,52706,1.43,True
+IAMX,52137,1.41,True
+Underoath,51988,1.41,True
+Aly & AJ,51641,1.4,True
+Anahí,51602,1.4,True
+Bullet for My Valentine,51566,1.4,True
+Lil' Wayne,50645,1.37,True
+Pitty,50241,1.36,True
+ABBA,50132,1.36,True
+Belle and Sebastian,49881,1.35,True
+The National,49647,1.34,True
+Tori Amos,49603,1.34,True
+Scissor Sisters,49521,1.34,True
+Natalie Imbruglia,49290,1.33,True
+Alice in Chains,49014,1.32,True
+Ellie Goulding,48631,1.31,True
+Morrissey,48397,1.3,True
+Röyksopp,47993,1.29,True
+Kasabian,47200,1.27,True
+Garbage,46606,1.25,True
+Atreyu,46466,1.25,True
+Jeffree Star,46370,1.24,True
+Lostprophets,46295,1.24,True
+Damien Rice,46061,1.24,True
+Kate Nash,45886,1.23,True
+Tangerine Dream,45769,1.23,True
+Judas Priest,45672,1.22,True
+Sonata Arctica,45666,1.22,True
+The White Stripes,45355,1.22,True
+Disturbed,44959,1.2,True
+Aerosmith,44878,1.2,True
+Moby,44852,1.2,True
+Usher,44673,1.2,True
+Simple Plan,44240,1.18,True
+Air,44230,1.18,True
+KISS,44187,1.18,True
+RBD,44182,1.18,True
+Asking Alexandria,44151,1.18,True
+Yann Tiersen,43972,1.17,True
+Portishead,43961,1.17,True
+The xx,43860,1.17,True
+nevershoutnever!,43710,1.17,True
+Apocalyptica,43644,1.16,True
+Papa Roach,43559,1.16,True
+Dave Matthews Band,43536,1.16,True
+Katatonia,43458,1.16,True
+Cocteau Twins,43440,1.16,True
+Hadouken!,43303,1.15,True
+Bon Jovi,43252,1.15,True
+M.I.A.,42418,1.13,True
+Miranda Lambert,42363,1.13,True
+Bat for Lashes,42305,1.13,True
+Massive Attack,42195,1.12,True
+Cher,41552,1.1,True
+Daughtry,41447,1.1,True
+Tom Waits,41316,1.1,True
+Nickelback,41094,1.09,True
+Tarja,41028,1.09,True
+Vanessa Hudgens,40837,1.08,True
+Deep Purple,40664,1.08,True
+Colbie Caillat,40510,1.07,True
+The Prodigy,40473,1.07,True
+Killswitch Engage,40428,1.07,True
+Jason Mraz,40288,1.07,True
+Animal Collective,40234,1.06,True
+Modest Mouse,40203,1.06,True
+Duffy,40042,1.06,True
+Jack Johnson,39882,1.05,True
+Martin L. Gore,39658,1.05,True
+Sufjan Stevens,39491,1.04,True
+Dido,39172,1.03,True
+Natasha Bedingfield,39111,1.03,True
+And One,38949,1.03,True
+Cansei de Ser Sexy,38781,1.02,True
+No Doubt,38608,1.02,True
+Bushido,38392,1.01,True
+Jessica Simpson,38190,1.0,True
+Beirut,37812,0.99,True
+The Fray,37800,0.99,True
+Brand New,37663,0.99,True
+Electric Light Orchestra,37655,0.99,True
+Beck,37576,0.99,True
+The Libertines,37532,0.99,True
+Jay-Z,37521,0.99,True
+Bloc Party,37500,0.98,True
+Faith No More,37375,0.98,True
+Silverchair,37287,0.98,True
+Johnny Cash,37211,0.98,True
+Boys Like Girls,37136,0.97,True
+Owl City,36911,0.97,True
+Manic Street Preachers,36669,0.96,True
+The All-American Rejects,36370,0.95,True
+Engenheiros do Hawaii,35978,0.94,True
+Cat Power,35947,0.94,True
+Ozzy Osbourne,35924,0.94,True
+Anathema,35700,0.93,True
+Cascada,35347,0.92,True
+Viking Quest,35323,0.92,True
+Alesana,35258,0.92,True
+Vangelis,35182,0.92,True
+Vampire Weekend,35056,0.91,True
+Elton John,34976,0.91,True
+Norah Jones,34934,0.91,True
+Destiny's Child,34746,0.9,True
+Rush,34641,0.9,True
+Alexisonfire,34637,0.9,True
+blessthefall,34500,0.9,True
+Marc Almond,34449,0.9,True
+Aphex Twin,34321,0.89,True
+Sonic Youth,34222,0.89,True
+Travis,34165,0.89,True
+La Roux,34090,0.88,True
+Little Boots,34002,0.88,True
+Ladytron,33892,0.88,True
+The Clash,33757,0.87,True
+Mötley Crüe,33624,0.87,True
+Amerie,33603,0.87,True
+NOFX,33559,0.87,True
+Shania Twain,33380,0.86,True
+Chris Brown,33055,0.85,True
+Dead by April,33037,0.85,True
+Johnny Hallyday,32995,0.85,True
+Frank Zappa,32919,0.85,True
+Misfits,32827,0.85,True
+Kid Cudi,32234,0.83,True
+God Is an Astronaut,32173,0.83,True
+Weezer,32136,0.83,True
+Whitney Houston,32020,0.82,True
+Suede,31803,0.82,True
+Motörhead,31791,0.82,True
+Ace of Base,31704,0.81,True
+Mando Diao,31516,0.81,True
+Rage Against the Machine,31514,0.81,True
+安室奈美恵,31421,0.81,True
+Skid Row,31404,0.81,True
+The Cranberries,31367,0.8,True
+Spice Girls,31309,0.8,True
+Hans Zimmer,31254,0.8,True
+宇多田ヒカル,31157,0.8,True
+Patrick Wolf,31086,0.8,True
+Bad Religion,31078,0.8,True
+Grouper,31073,0.8,True
+Billy Talent,31048,0.8,True
+Jimmy Eat World,30983,0.79,True
+Tyler Adam,30614,0.78,True
+Band of Horses,30543,0.78,True
+Skillet,30524,0.78,True
+Belinda,30446,0.78,True
+Dashboard Confessional,30349,0.77,True
+Sophie Ellis-Bextor,30324,0.77,True
+Dio,30208,0.77,True
+Blind Guardian,30095,0.77,True
+Klaxons,30083,0.77,True
+George Michael,29944,0.76,True
+Darren Criss,29798,0.76,True
+Jessie J,29701,0.76,True
+Amon Amarth,29399,0.75,True
+Mindless Self Indulgence,29358,0.75,True
+The Police,29138,0.74,True
+3 Doors Down,29041,0.74,True
+The Knife,28956,0.73,True
+Akira Yamaoka,28823,0.73,True
+Attack Attack!,28672,0.73,True
+Helloween,28262,0.71,True
+Taking Back Sunday,28262,0.71,True
+Breathe Carolina,28256,0.71,True
+Dance Gavin Dance,28243,0.71,True
+Kings of Convenience,28188,0.71,True
+The Hives,28143,0.71,True
+Frank Sinatra,28125,0.71,True
+Metric,28106,0.71,True
+Michelle Branch,28064,0.71,True
+Pixies,28038,0.71,True
+The Last Shadow Puppets,28029,0.71,True
+Busta Rhymes,28020,0.71,True
+Anberlin,27969,0.71,True
+Hey Monday,27941,0.7,True
+Hurts,27871,0.7,True
+The Cardigans,27818,0.7,True
+Legião Urbana,27680,0.7,True
+T.I.,27607,0.69,True
+Sia,27597,0.69,True
+Girlicious,27570,0.69,True
+Kaiser Chiefs,27569,0.69,True
+Gloria,27321,0.69,True
+Dangerous Muse,27321,0.69,True
+Marina & the Diamonds,27304,0.69,True
+Limp Bizkit,27179,0.68,True
+The Mars Volta,27175,0.68,True
+Róisín Murphy,27153,0.68,True
+Simple Minds,27126,0.68,True
+Black Label Society,26972,0.68,True
+Katharine McPhee,26762,0.67,True
+Hannah Montana,26748,0.67,True
+Bush,26643,0.67,True
+Keri Hilson,26534,0.66,True
+VersaEmerge,26329,0.66,True
+Fergie,26323,0.66,True
+Flo Rida,26168,0.65,True
+Silverstein,26071,0.65,True
+Digitalism,26048,0.65,True
+BIG BANG,25855,0.64,True
+She & Him,25748,0.64,True
+Pain of Salvation,25719,0.64,True
+The American Dollar,25621,0.64,True
+Dark Tranquillity,25567,0.63,True
+A Skylit Drive,25524,0.63,True
+Paul McCartney,25453,0.63,True
+Kelis,25380,0.63,True
+Ennio Morricone,25239,0.63,True
+Iced Earth,25213,0.62,True
+Sara Bareilles,25153,0.62,True
+Camel,25037,0.62,True
+Enya,25020,0.62,True
+Sepultura,24811,0.61,True
+Scorpions,24799,0.61,True
+Angels & Airwaves,24781,0.61,True
+Kelly Rowland,24585,0.61,True
+Jimi Hendrix,24567,0.61,True
+Joss Stone,24546,0.6,True
+Katie Melua,24544,0.6,True
+Bob Marley,24482,0.6,True
+Explosions in the Sky,24476,0.6,True
+Luciano Ligabue,24151,0.59,True
+A Fine Frenzy,24133,0.59,True
+Bruce Dickinson,24109,0.59,True
+James Blunt,23910,0.59,True
+Phoenix,23881,0.59,True
+Siouxsie and the Banshees,23851,0.58,True
+Kris Allen,23824,0.58,True
+Trivium,23772,0.58,True
+Saosin,23743,0.58,True
+Nas,23652,0.58,True
+JoJo,23611,0.58,True
+City and Colour,23611,0.58,True
+Calvin Harris,23497,0.57,True
+Michel Teló,23479,0.57,True
+Bruce Springsteen,23472,0.57,True
+Rytmus,23462,0.57,True
+KT Tunstall,23423,0.57,True
+Laura Pausini,23397,0.57,True
+Kreator,23324,0.57,True
+All That Remains,23282,0.57,True
+소녀시대,23242,0.57,True
+The Mountain Goats,23212,0.57,True
+AFI,23154,0.56,True
+John Lennon,23102,0.56,True
+The Black Keys,23022,0.56,True
+Soilwork,22873,0.56,True
+Arch Enemy,22865,0.56,True
+The Beach Boys,22806,0.55,True
+Chico Buarque,22781,0.55,True
+Beach House,22761,0.55,True
+The Fratellis,22756,0.55,True
+múm,22661,0.55,True
+Electric President,22603,0.55,True
+Orchestral Manoeuvres in the Dark,22584,0.55,True
+The Ting Tings,22518,0.55,True
+Lamb of God,22441,0.54,True
+Shayne Ward,22365,0.54,True
+The Velvet Underground,22356,0.54,True
+Editors,22321,0.54,True
+Gary Numan,22299,0.54,True
+Lights,22138,0.53,True
+Broken Social Scene,22039,0.53,True
+Restart,21986,0.53,True
+Feist,21972,0.53,True
+Deerhunter,21943,0.53,True
+Zемфира,21772,0.52,True
+Grizzly Bear,21504,0.52,True
+Anastacia,21462,0.51,True
+Soft Cell,21369,0.51,True
+Beastie Boys,21268,0.51,True
+Jethro Tull,21204,0.51,True
+The Chemical Brothers,21169,0.51,True
+Babyshambles,21160,0.51,True
+Sandy Leah,21116,0.5,True
+Wu-Tang Clan,21097,0.5,True
+Dulce María,21092,0.5,True
+M83,21065,0.5,True
+Switchfoot,21052,0.5,True
+Bruno Mars,20997,0.5,True
+Lynyrd Skynyrd,20962,0.5,True
+Yellowcard,20893,0.5,True
+Parkway Drive,20874,0.5,True
+We Butter The Bread With Butter,20823,0.5,True
+Lady Antebellum,20760,0.49,True
+Fiona Apple,20697,0.49,True
+White Lies,20674,0.49,True
+Justice,20670,0.49,True
+Ana Carolina,20662,0.49,True
+The Shins,20635,0.49,True
+Prince,20415,0.48,True
+Sneaker Pimps,20402,0.48,True
+Burial,20392,0.48,True
+The Radio Dept.,20366,0.48,True
+Natalia Kills,20337,0.48,True
+Forfun,20292,0.48,True
+Hole,20257,0.48,True
+Kat DeLuna,20231,0.48,True
+Recoil,20209,0.48,True
+Van Halen,20205,0.48,True
+De/Vision,20203,0.48,True
+Thrice,20123,0.48,True
+Roxette,20046,0.47,True
+Jeff Buckley,19999,0.47,True
+Black Rebel Motorcycle Club,19988,0.47,True
+Emilie Autumn,19846,0.47,True
+Pendulum,19783,0.47,True
+Heidi Montag,19774,0.46,True
+George Harrison,19756,0.46,True
+Seether,19736,0.46,True
+65daysofstatic,19654,0.46,True
+Japan,19647,0.46,True
+Eric Clapton,19637,0.46,True
+The Human League,19603,0.46,True
+Funeral for a Friend,19454,0.46,True
+Chiodos,19425,0.45,True
+Def Leppard,19407,0.45,True
+Sade,19391,0.45,True
+Keyshia Cole,19342,0.45,True
+Alice Cooper,19335,0.45,True
+Alexandra Burke,19328,0.45,True
+August Burns Red,19260,0.45,True
+Imogen Heap,19176,0.45,True
+Ultravox,19131,0.45,True
+NX Zero,19046,0.44,True
+The Frames,18964,0.44,True
+Lacuna Coil,18911,0.44,True
+Wilco,18905,0.44,True
+Tiësto,18885,0.44,True
+INXS,18793,0.44,True
+Morcheeba,18787,0.44,True
+Audioslave,18727,0.43,True
+Soundgarden,18719,0.43,True
+PJ Harvey,18706,0.43,True
+Falco,18699,0.43,True
+Perfume,18624,0.43,True
+Darin,18586,0.43,True
+Janis Joplin,18578,0.43,True
+Kamelot,18556,0.43,True
+Peaches,18531,0.43,True
+Iron & Wine,18451,0.43,True
+Westlife,18450,0.43,True
+Creedence Clearwater Revival,18449,0.43,True
+King Crimson,18426,0.43,True
+Mary J. Blige,18404,0.42,True
+Manowar,18315,0.42,True
+Tears for Fears,18280,0.42,True
+Story of the Year,18213,0.42,True
+Pidżama Porno,18160,0.42,True
+Cut Copy,18136,0.42,True
+O.S.T.R.,18045,0.41,True
+Blondie,18041,0.41,True
+Josh Groban,18026,0.41,True
+Neil Young,17930,0.41,True
+4minute,17926,0.41,True
+Dannii Minogue,17921,0.41,True
+The Residents,17896,0.41,True
+Stone Sour,17862,0.41,True
+Devendra Banhart,17806,0.41,True
+Wolfgang Amadeus Mozart,17786,0.41,True
+Gojira,17754,0.41,True
+Dead Fish,17733,0.4,True
+B.o.B,17718,0.4,True
+ムック,17707,0.4,True
+Thom Yorke,17674,0.4,True
+Mogwai,17626,0.4,True
+Serj Tankian,17594,0.4,True
+Stereophonics,17561,0.4,True
+G-Unit,17523,0.4,True
+Ludwig van Beethoven,17492,0.4,True
+Skinny Puppy,17475,0.4,True
+Kate Bush,17408,0.4,True
+Fleet Foxes,17353,0.39,True
+Howard Shore,17265,0.39,True
+Brooke Fraser,17231,0.39,True
+The Streets,17228,0.39,True
+Kate Voegele,17200,0.39,True
+The Rasmus,17190,0.39,True
+Sonic Syndicate,17151,0.39,True
+Mandy Moore,17142,0.39,True
+Suicide Silence,17125,0.39,True
+Madlib,17118,0.39,True
+Telefon Tel Aviv,17096,0.39,True
+Anal Cunt,17092,0.39,True
+Hot Chip,17092,0.39,True
+of Montreal,17068,0.39,True
+Paradise Lost,16937,0.38,True
+She Wants Revenge,16857,0.38,True
+J Dilla,16848,0.38,True
+The Kinks,16810,0.38,True
+Static-X,16794,0.38,True
+Alphaville,16765,0.38,True
+Hanson,16729,0.38,True
+Kraftwerk,16706,0.37,True
+Dead Can Dance,16658,0.37,True
+Serge Gainsbourg,16649,0.37,True
+Simon & Garfunkel,16625,0.37,True
+Brad Paisley,16612,0.37,True
+Mercyful Fate,16601,0.37,True
+The Red Jumpsuit Apparatus,16581,0.37,True
+Riverside,16561,0.37,True
+Eyes Set to Kill,16561,0.37,True
+Black Veil Brides,16544,0.37,True
+Sublime,16533,0.37,True
+Sandra,16516,0.37,True
+Rilo Kiley,16506,0.37,True
+Mastodon,16477,0.37,True
+Ezginin Günlüğü,16360,0.36,True
+Mew,16324,0.36,True
+Delta Goodrem,16320,0.36,True
+Ben Folds,16312,0.36,True
+Toni Braxton,16307,0.36,True
+Metro Station,16155,0.36,True
+Nelly,16116,0.36,True
+Epica,16071,0.36,True
+Edguy,16069,0.36,True
+P.O.D.,16056,0.36,True
+The Word Alive,16035,0.36,True
+Nick Cave and the Bad Seeds,16022,0.35,True
+John Frusciante,16004,0.35,True
+DICKY DIXON LAKE RECORDS,15952,0.35,True
+Johann Sebastian Bach,15947,0.35,True
+Angra,15946,0.35,True
+Hooverphonic,15927,0.35,True
+King Diamond,15888,0.35,True
+Drake,15883,0.35,True
+Hillsong United,15843,0.35,True
+Blutengel,15772,0.35,True
+Агата Кристи,15704,0.35,True
+Raimundos,15692,0.35,True
+Darren Hayes,15661,0.34,True
+Ricky Martin,15647,0.34,True
+David Cook,15634,0.34,True
+Психея,15627,0.34,True
+The Kills,15615,0.34,True
+Rob Zombie,15613,0.34,True
+Thievery Corporation,15611,0.34,True
+Pitbull,15593,0.34,True
+Sugarland,15591,0.34,True
+Take That,15570,0.34,True
+The Classic Crime,15557,0.34,True
+Maria Mena,15533,0.34,True
+Missy Elliott,15473,0.34,True
+Wiz Khalifa,15418,0.34,True
+The Subways,15413,0.34,True
+Cassie,15405,0.34,True
+Corinne Bailey Rae,15351,0.34,True
+Dicky Dixon,15345,0.33,True
+e-gens,15335,0.33,True
+Capsule,15289,0.33,True
+Blue,15267,0.33,True
+Cradle of Filth,15166,0.33,True
+Autechre,15119,0.33,True
+Blackfield,15113,0.33,True
+John Williams,15087,0.33,True
+Infected Mushroom,15030,0.33,True
+Taio Cruz,15014,0.33,True
+dredg,14994,0.32,True
+Hatebreed,14991,0.32,True
+Vanessa Carlton,14926,0.32,True
+Pleq,14907,0.32,True
+The Distillers,14885,0.32,True
+Roger Waters,14856,0.32,True
+Jay Sean,14846,0.32,True
+2Pac,14813,0.32,True
+CocoRosie,14810,0.32,True
+The Script,14790,0.32,True
+Melanie C,14766,0.32,True
+Chevelle,14748,0.32,True
+Genesis,14723,0.32,True
+My Bloody Valentine,14721,0.32,True
+The Roots,14713,0.32,True
+Hammock,14712,0.32,True
+Uriah Heep,14704,0.32,True
+Frankmusik,14703,0.32,True
+Death,14694,0.32,True
+Moptop,14654,0.31,True
+You Me At Six,14646,0.31,True
+Ashanti,14610,0.31,True
+Bonobo,14601,0.31,True
+Roxy Music,14566,0.31,True
+BrokeNCYDE,14557,0.31,True
+Simon Curtis,14536,0.31,True
+Whitesnake,14523,0.31,True
+Danity Kane,14522,0.31,True
+Atlas Sound,14521,0.31,True
+Yazoo,14519,0.31,True
+Pink,14512,0.31,True
+Arcadia,14474,0.31,True
+Protest The Hero,14445,0.31,True
+Forever the Sickest Kids,14434,0.31,True
+Danny Elfman,14382,0.31,True
+New Found Glory,14348,0.31,True
+Ne-Yo,14332,0.31,True
+Capital Inicial,14327,0.31,True
+Blake Lewis,14320,0.3,True
+Eurythmics,14308,0.3,True
+Clint Mansell,14307,0.3,True
+Miranda Cosgrove,14305,0.3,True
+The Academy Is...,14303,0.3,True
+Blonde Redhead,14268,0.3,True
+Jean-Michel Jarre,14259,0.3,True
+Ensiferum,14254,0.3,True
+Inna,14234,0.3,True
+Bauhaus,14220,0.3,True
+Unheilig,14209,0.3,True
+Neuro Dubel,14203,0.3,True
+Say Anything,14194,0.3,True
+George Strait,14191,0.3,True
+Anthrax,14163,0.3,True
+Minus the Bear,14157,0.3,True
+Emarosa,14116,0.3,True
+The Decemberists,14090,0.3,True
+W.A.S.P.,14087,0.3,True
+RICHARD DIXON-COMPOSER,14082,0.3,True
+Ice Cube,14024,0.3,True
+Bloodbath,13988,0.3,True
+Cute Is What We Aim For,13975,0.29,True
+Mobb Deep,13960,0.29,True
+Fear Factory,13906,0.29,True
+Nitzer Ebb,13896,0.29,True
+Therion,13894,0.29,True
+Converge,13892,0.29,True
+Plain White T's,13873,0.29,True
+Sopor Aeternus & The Ensemble of Shadows,13816,0.29,True
+Michael Bublé,13813,0.29,True
+Alexandre Desplat,13806,0.29,True
+YUI,13762,0.29,True
+Takanashi Yasuharu,13759,0.29,True
+Adriana Calcanhotto,13716,0.29,True
+The Verve,13693,0.29,True
+Rancid,13661,0.29,True
+Dire Straits,13640,0.28,True
+September,13569,0.28,True
+Antony and the Johnsons,13520,0.28,True
+The Maine,13504,0.28,True
+Uffie,13501,0.28,True
+Lolene,13498,0.28,True
+Mayday Parade,13473,0.28,True
+Paris Hilton,13461,0.28,True
+2NE1,13418,0.28,True
+Apparat,13415,0.28,True
+Lykke Li,13407,0.28,True
+Hollywood Undead,13405,0.28,True
+Amy Macdonald,13401,0.28,True
+Vanessa da Mata,13363,0.28,True
+The Corrs,13340,0.28,True
+Superchic[k],13300,0.27,True
+ATB,13295,0.27,True
+Selena Gomez,13234,0.27,True
+Rufus Wainwright,13229,0.27,True
+The Flashbulb,13226,0.27,True
+Flying Lotus,13178,0.27,True
+Anti-Flag,13151,0.27,True
+The Postal Service,13112,0.27,True
+Ryan Adams,13084,0.27,True
+I See Stars,13075,0.27,True
+Type O Negative,13068,0.27,True
+Ayria,13036,0.27,True
+Ted Leo and The Pharmacists,12951,0.26,True
+Janelle Monáe,12933,0.26,True
+Matchbox Twenty,12876,0.26,True
+Talk Talk,12833,0.26,True
+Client,12828,0.26,True
+Marillion,12812,0.26,True
+CAKE,12799,0.26,True
+deadmau5,12773,0.26,True
+Pulp,12753,0.26,True
+Norther,12723,0.26,True
+*NSYNC,12715,0.26,True
+DMX,12714,0.26,True
+CPM 22,12661,0.26,True
+Snoop Dogg,12615,0.25,True
+Hoobastank,12565,0.25,True
+Ray J,12554,0.25,True
+Basshunter,12551,0.25,True
+Frank Klepacki,12531,0.25,True
+80kidz,12520,0.25,True
+Motion City Soundtrack,12486,0.25,True
+Trey Songz,12471,0.25,True
+Pain,12451,0.25,True
+Red,12430,0.25,True
+Sky Ferreira,12425,0.25,True
+Senses Fail,12422,0.25,True
+The Rocket Summer,12353,0.25,True
+Avantasia,12345,0.25,True
+Bowling for Soup,12331,0.25,True
+Рубль,12321,0.25,True
+Garth Brooks,12312,0.25,True
+Monrose,12292,0.25,True
+Korpiklaani,12266,0.24,True
+Raul Seixas,12255,0.24,True
+X-Ray Dog,12242,0.24,True
+Lloyd Banks,12200,0.24,True
+Dragonette,12176,0.24,True
+Kelly Key,12157,0.24,True
+Killwhitneydead,12147,0.24,True
+The Dillinger Escape Plan,12115,0.24,True
+Martin O'Donnell & Michael Salvatori,12086,0.24,True
+Morten Harket,12076,0.24,True
+Stratovarius,12070,0.24,True
+Sparks,12055,0.24,True
+Мои Ракеты Вверх,12043,0.24,True
+Third Eye Blind,12037,0.24,True
+Jefferson Airplane,12030,0.24,True
+Fleetwood Mac,12008,0.24,True
+Fightstar,11969,0.24,True
+Aaliyah,11936,0.23,True
+Andrew Bird,11918,0.23,True
+Bob Marley & The Wailers,11867,0.23,True
+Dolly Parton,11865,0.23,True
+Spoon,11859,0.23,True
+Paola & Chiara,11839,0.23,True
+Raunchy,11820,0.23,True
+The New Pornographers,11815,0.23,True
+Marisa Monte,11769,0.23,True
+Camouflage,11768,0.23,True
+Pavement,11732,0.23,True
+Poets of the Fall,11728,0.23,True
+Goo Goo Dolls,11703,0.23,True
+Maxïmo Park,11701,0.23,True
+Vasco Rossi,11689,0.23,True
+Stars,11637,0.23,True
+Willow Smith,11628,0.23,True
+Oomph!,11576,0.22,True
+Manu Chao,11518,0.22,True
+Alkaline Trio,11511,0.22,True
+Keith Urban,11509,0.22,True
+The Jimi Hendrix Experience,11484,0.22,True
+Syd Barrett,11468,0.22,True
+Jennifer Hudson,11450,0.22,True
+In Extremo,11431,0.22,True
+Twiztid,11430,0.22,True
+Coheed and Cambria,11389,0.22,True
+Echo & The Bunnymen,11388,0.22,True
+Far East Movement,11374,0.22,True
+Coil,11357,0.22,True
+Buckethead,11353,0.22,True
+Why?,11342,0.22,True
+Faithless,11316,0.22,True
+O Teatro Mágico,11314,0.22,True
+D12,11310,0.22,True
+David Gilmour,11295,0.22,True
+植松伸夫,11286,0.22,True
+Squarepusher,11264,0.22,True
+Noize MC,11251,0.21,True
+Wolfmother,11249,0.21,True
+Eluveitie,11244,0.21,True
+Rainbow,11216,0.21,True
+James Morrison,11203,0.21,True
+Charlie Brown Jr.,11191,0.21,True
+Alizée,11156,0.21,True
+Eels,11149,0.21,True
+Foals,11049,0.21,True
+"Royce da 5'9""",11042,0.21,True
+Poison,11031,0.21,True
+Shiny Toy Guns,11024,0.21,True
+VNV Nation,11012,0.21,True
+Spandau Ballet,10998,0.21,True
+Os Mutantes,10997,0.21,True
+Electronic,10949,0.21,True
+Machine Head,10906,0.2,True
+Rascal Flatts,10902,0.2,True
+Άννα Βισση,10896,0.2,True
+Cypress Hill,10882,0.2,True
+Queensrÿche,10875,0.2,True
+Ulver,10861,0.2,True
+Gustavo Cerati,10822,0.2,True
+Buddy Holly,10801,0.2,True
+DIR EN GREY,10791,0.2,True
+Tribraco,10776,0.2,True
+Automatic Loveletter,10768,0.2,True
+Kenny Chesney,10765,0.2,True
+Creed,10754,0.2,True
+Eddie Vedder,10741,0.2,True
+Ayreon,10738,0.2,True
+Kontrafakt,10726,0.2,True
+36 Crazyfists,10722,0.2,True
+Billy Joel,10670,0.2,True
+T. Rex,10651,0.2,True
+Brian Eno,10648,0.2,True
+Kurt Vile,10647,0.2,True
+Biffy Clyro,10646,0.2,True
+HammerFall,10643,0.2,True
+LCD Soundsystem,10640,0.2,True
+Klaus Badelt,10627,0.2,True
+Testament,10599,0.2,True
+Armin van Buuren,10577,0.2,True
+Holdcut,10574,0.2,True
+Scar Symmetry,10547,0.19,True
+Jamie Cullum,10506,0.19,True
+Mr. Big,10505,0.19,True
+Beatsteaks,10490,0.19,True
+Nick Drake,10476,0.19,True
+Drowning Pool,10468,0.19,True
+Ratatat,10462,0.19,True
+Devo,10456,0.19,True
+Steve Jablonsky,10450,0.19,True
+Fever Ray,10447,0.19,True
+The Vines,10419,0.19,True
+Relient K,10401,0.19,True
+Stone Temple Pilots,10379,0.19,True
+Godsmack,10373,0.19,True
+Benoît Pioulard,10370,0.19,True
+Britt Nicole,10354,0.19,True
+Nephew,10340,0.19,True
+Bernard Butler,10332,0.19,True
+Robert Pattinson,10310,0.19,True
+Ivete Sangalo,10309,0.19,True
+Passion Pit,10282,0.19,True
+Schiller,10264,0.19,True
+Celldweller,10234,0.19,True
+Circa Survive,10231,0.18,True
+TLC,10228,0.18,True
+Chuck Berry,10218,0.18,True
+Era,10199,0.18,True
+Prefuse 73,10193,0.18,True
+The B-52's,10193,0.18,True
+Finch,10180,0.18,True
+Madvillain,10179,0.18,True
+Tenacious D,10162,0.18,True
+Billy Bragg,10149,0.18,True
+Miles Davis,10139,0.18,True
+†‡†,10134,0.18,True
+Apoptygma Berzerk,10125,0.18,True
+The Sisters of Mercy,10122,0.18,True
+Stevie Wonder,10110,0.18,True
+Yes,10098,0.18,True
+L'Arc~en~Ciel,10086,0.18,True
+DJ Shadow,10078,0.18,True
+Caliban,10065,0.18,True
+Alter Bridge,10040,0.18,True
+The Runaways,10035,0.18,True
+Sarah McLachlan,10032,0.18,True
+Confide,10011,0.18,True
+Thompson Twins,10010,0.18,True
+Ryan Leslie,10007,0.18,True
+The Bravery,10007,0.18,True
+7раса,10004,0.18,True
+A Rocket to the Moon,9997,0.18,True
+Flotation Toy Warning,9975,0.18,True
+Laura Marling,9968,0.18,True
+Dr. Dre,9959,0.18,True
+Ляпис Трубецкой,9941,0.18,True
+Something Corporate,9935,0.18,True
+Amon Tobin,9929,0.18,True
+Mesh,9928,0.18,True
+Phil Collins,9848,0.17,True
+From First to Last,9848,0.17,True
+Brian Littrell,9845,0.17,True
+Melvins,9843,0.17,True
+In Fear and Faith,9835,0.17,True
+Fuel,9812,0.17,True
+Despised Icon,9804,0.17,True
+Kill Hannah,9801,0.17,True
+James Horner,9799,0.17,True
+Clan of Xymox,9786,0.17,True
+the GazettE,9771,0.17,True
+The Alan Parsons Project,9762,0.17,True
+The Raveonettes,9757,0.17,True
+Feeder,9751,0.17,True
+Zero 7,9750,0.17,True
+Four Year Strong,9744,0.17,True
+Yo La Tengo,9730,0.17,True
+Two Door Cinema Club,9716,0.17,True
+Nina Simone,9714,0.17,True
+Móveis Coloniais de Acaju,9706,0.17,True
+Pierce the Veil,9670,0.17,True
+Sodom,9670,0.17,True
+Hellogoodbye,9669,0.17,True
+Panda Bear,9660,0.17,True
+Gang Starr,9652,0.17,True
+OutKast,9649,0.17,True
+Trapt,9633,0.17,True
+DJ BoBo,9630,0.17,True
+MF DOOM,9627,0.17,True
+Combichrist,9621,0.17,True
+RoBERT,9615,0.17,True
+The Presets,9611,0.17,True
+Behemoth,9564,0.17,True
+Asia,9563,0.17,True
+Venetian Snares,9562,0.17,True
+Ajda Pekkan,9506,0.16,True
+Plumb,9502,0.16,True
+Split Enz,9498,0.16,True
+Tina Turner,9498,0.16,True
+Tony Yayo,9498,0.16,True
+Devin Townsend,9490,0.16,True
+Hall & Oates,9482,0.16,True
+Shannon Noll,9453,0.16,True
+Ólafur Arnalds,9433,0.16,True
+Jon McLaughlin,9420,0.16,True
+Jewel,9412,0.16,True
+Ill Niño,9409,0.16,True
+Hande Yener,9408,0.16,True
+Madball,9404,0.16,True
+We The Kings,9381,0.16,True
+Razorlight,9380,0.16,True
+Icehouse,9357,0.16,True
+Jason Derülo,9357,0.16,True
+Bob Sinclar,9354,0.16,True
+Notorious B.I.G.,9340,0.16,True
+Hey,9338,0.16,True
+DevilDriver,9334,0.16,True
+Eddie Cochran,9326,0.16,True
+Fantômas,9316,0.16,True
+De La Soul,9305,0.16,True
+Veil of Maya,9290,0.16,True
+Machinae Supremacy,9290,0.16,True
+Einstürzende Neubauten,9283,0.16,True
+Covenant,9256,0.16,True
+Neutral Milk Hotel,9255,0.16,True
+The Black Dahlia Murder,9244,0.16,True
+Tim McGraw,9234,0.16,True
+Lupe Fiasco,9223,0.16,True
+Big Time Rush,9212,0.16,True
+Detonautas Roque Clube,9192,0.15,True
+Plaid,9192,0.15,True
+Alphabeat,9185,0.15,True
+Antonio Vivaldi,9144,0.15,True
+Crash Test Dummies,9124,0.15,True
+Cynic,9117,0.15,True
+Rachel Stevens,9117,0.15,True
+Meg & Dia,9108,0.15,True
+The Dresden Dolls,9101,0.15,True
+EMF,9097,0.15,True
+Die Ärzte,9084,0.15,True
+Emily Osment,9083,0.15,True
+The Horrors,9069,0.15,True
+Eths,9038,0.15,True
+Jack's Mannequin,9037,0.15,True
+Millencolin,8993,0.15,True
+Sheryl Crow,8976,0.15,True
+Sex Pistols,8969,0.15,True
+"Drop Dead, Gorgeous",8969,0.15,True
+Dimmu Borgir,8963,0.15,True
+M. Pokora,8961,0.15,True
+Soda Stereo,8961,0.15,True
+Rhapsody of Fire,8949,0.15,True
+L'Âme Immortelle,8905,0.15,True
+Bloodhound Gang,8902,0.15,True
+After the Burial,8864,0.14,True
+Unnaddarè,8833,0.14,True
+Alexander Rybak,8808,0.14,True
+The Album Leaf,8806,0.14,True
+DonGURALesko,8796,0.14,True
+Radical Face,8772,0.14,True
+Jamiroquai,8747,0.14,True
+Ladyhawke,8736,0.14,True
+Augustana,8734,0.14,True
+Bryan Adams,8728,0.14,True
+Shontelle,8727,0.14,True
+Enrique Bunbury,8699,0.14,True
+Burzum,8687,0.14,True
+:wumpscut:,8685,0.14,True
+Bon Iver,8673,0.14,True
+Sonny Black & Frank White,8665,0.14,True
+The Magnetic Fields,8658,0.14,True
+大塚愛,8650,0.14,True
+Hanni Kohl,8648,0.14,True
+Ariel Ramírez,8643,0.14,True
+Neo,8636,0.14,True
+Amorphis,8635,0.14,True
+Skank,8633,0.14,True
+Monica,8630,0.14,True
+UNKLE,8627,0.14,True
+Sting,8625,0.14,True
+Scooter,8600,0.14,True
+Agalloch,8587,0.14,True
+KMFDM,8570,0.14,True
+Underworld,8564,0.14,True
+Cream,8561,0.14,True
+Camera Obscura,8554,0.14,True
+Little Joy,8518,0.13,True
+Sick Puppies,8513,0.13,True
+Mara Maravilha,8511,0.13,True
+Thomas Newman,8486,0.13,True
+Joanna Newsom,8460,0.13,True
+Eagles,8451,0.13,True
+Dope,8447,0.13,True
+Dead Kennedys,8427,0.13,True
+Talking Heads,8415,0.13,True
+Bear McCreary,8395,0.13,True
+Eisley,8387,0.13,True
+Die Toten Hosen,8387,0.13,True
+No Angels,8372,0.13,True
+Born of Osiris,8350,0.13,True
+Rosa Tattooada,8348,0.13,True
+The Fall of Troy,8345,0.13,True
+The Sounds,8324,0.13,True
+Marcelo Adnet,8320,0.13,True
+Nujabes,8317,0.13,True
+Loreena McKennitt,8317,0.13,True
+Erykah Badu,8316,0.13,True
+Scars on Broadway,8313,0.13,True
+Jorge & Mateus,8310,0.13,True
+Daddy Yankee,8299,0.13,True
+Jet,8289,0.13,True
+Guano Apes,8268,0.13,True
+Elliot Minor,8267,0.13,True
+The Stone Roses,8255,0.13,True
+Diorama,8248,0.13,True
+Reba McEntire,8247,0.13,True
+Tycho,8245,0.13,True
+Isis,8236,0.13,True
+Supertramp,8235,0.13,True
+In This Moment,8231,0.13,True
+Claudia Leitte,8219,0.13,True
+Cinema Bizarre,8214,0.13,True
+Mushroomhead,8192,0.13,True
+Delain,8180,0.12,True
+The Rakes,8167,0.12,True
+Cássia Eller,8161,0.12,True
+Brandon Flowers,8147,0.12,True
+Shinedown,8140,0.12,True
+Nevermore,8140,0.12,True
+Dirty Pretty Things,8138,0.12,True
+Lacrimosa,8135,0.12,True
+Cueio Limão,8135,0.12,True
+Gyurcsány Feree és a Mardel,8131,0.12,True
+Savage Garden,8120,0.12,True
+Jónsi & Alex,8093,0.12,True
+Kult,8091,0.12,True
+Jay Vaquer,8082,0.12,True
+Thousand Foot Krutch,8077,0.12,True
+Alexz Johnson,8070,0.12,True
+Ленинград,8066,0.12,True
+Copeland,8056,0.12,True
+My Morning Jacket,8053,0.12,True
+The Living End,8019,0.12,True
+Super Junior,8019,0.12,True
+Diary of Dreams,8012,0.12,True
+Nouvelle Vague,8011,0.12,True
+Philip Glass,8010,0.12,True
+Phillip Boa & The Voodooclub,8006,0.12,True
+The Raconteurs,7994,0.12,True
+Wire,7993,0.12,True
+Miss May I,7981,0.12,True
+No Age,7979,0.12,True
+No Use for a Name,7973,0.12,True
+High School Musical,7958,0.12,True
+Woods,7949,0.12,True
+Before Their Eyes,7945,0.12,True
+Amanda Jenssen,7943,0.12,True
+Gabriella Cilmi,7939,0.12,True
+Deathstars,7938,0.12,True
+Skye Sweetnam,7936,0.12,True
+Bidê ou Balde,7932,0.12,True
+Darkest Hour,7929,0.12,True
+Dixie Chicks,7922,0.12,True
+Tokyo Police Club,7901,0.12,True
+Vanessa Paradis,7893,0.12,True
+Art of Noise,7887,0.12,True
+Frédéric Chopin,7878,0.12,True
+Institute,7875,0.12,True
+Elvis Costello,7870,0.12,True
+Groove Armada,7853,0.12,True
+Vivian Girls,7851,0.12,True
+Book of Love,7844,0.11,True
+Fort Minor,7834,0.11,True
+Gossip,7833,0.11,True
+Ducktails,7832,0.11,True
+Carter Burwell,7827,0.11,True
+Moving Mountains,7819,0.11,True
+Jack Off Jill,7811,0.11,True
+Kalomoira,7804,0.11,True
+Дельфин,7797,0.11,True
+Immediate Music,7796,0.11,True
+Soap&Skin,7793,0.11,True
+Blackmore's Night,7788,0.11,True
+RuPaul,7775,0.11,True
+Lesiëm,7768,0.11,True
+Crystal Stilts,7763,0.11,True
+Empire of the Sun,7745,0.11,True
+Leonard Cohen,7717,0.11,True
+Five Finger Death Punch,7699,0.11,True
+D-Bo,7666,0.11,True
+Peter Gabriel,7664,0.11,True
+Streetlight Manifesto,7663,0.11,True
+Flogging Molly,7655,0.11,True
+Dead by Sunrise,7649,0.11,True
+Missy Higgins,7646,0.11,True
+Pato Fu,7624,0.11,True
+mewithoutYou,7620,0.11,True
+Above & Beyond,7613,0.11,True
+Nicholas Hooper,7611,0.11,True
+The Hush Sound,7608,0.11,True
+Jonathan Larson,7594,0.11,True
+Mike Oldfield,7592,0.11,True
+Aesop Rock,7571,0.11,True
+Hilary Chow,7566,0.11,True
+Manchester Orchestra,7564,0.11,True
+Ashbury Heights,7561,0.11,True
+Doda,7554,0.11,True
+Simian Mobile Disco,7553,0.11,True
+José González,7548,0.11,True
+The Trash Can Sinatras,7546,0.11,True
+Danny,7543,0.11,True
+D'espairsRay,7538,0.11,True
+The Cribs,7522,0.11,True
+Kalmah,7514,0.11,True
+Staind,7506,0.11,True
+Sabertooth Zombie,7500,0.1,True
+Pig Destroyer,7494,0.1,True
+Atmosphere,7494,0.1,True
+Moderat,7491,0.1,True
+Ray LaMontagne,7488,0.1,True
+Angelo Badalamenti,7474,0.1,True
+Los Campesinos!,7471,0.1,True
+Demon Hunter,7464,0.1,True
+Tricky,7461,0.1,True
+Blue Öyster Cult,7456,0.1,True
+Final Fantasy,7437,0.1,True
+Exodus,7434,0.1,True
+Bryan Ferry,7431,0.1,True
+Hillsong,7425,0.1,True
+"You, Me, and Everyone We Know",7423,0.1,True
+Gretchen Wilson,7411,0.1,True
+They Might Be Giants,7406,0.1,True
+Ministry,7400,0.1,True
+Dinosaur Jr.,7383,0.1,True
+Paolo Nutini,7382,0.1,True
+B2ST,7379,0.1,True
+The Brian Jonestown Massacre,7377,0.1,True
+Four Tet,7362,0.1,True
+Backyard Babies,7349,0.1,True
+Emma Bunton,7343,0.1,True
+Ghostlimb,7342,0.1,True
+Silversun Pickups,7331,0.1,True
+This Mortal Coil,7326,0.1,True
+The Drums,7322,0.1,True
+Slowdive,7314,0.1,True
+Boston,7251,0.1,True
+Overkill,7246,0.1,True
+Owen,7245,0.1,True
+티아라,7238,0.1,True
+The Flaming Lips,7237,0.1,True
+ABC,7218,0.1,True
+The Jam,7215,0.1,True
+Luan Santana,7214,0.1,True
+The-Dream,7209,0.1,True
+Marduk,7207,0.1,True
+Of Mice & Men,7198,0.1,True
+James,7191,0.1,True
+Ludov,7184,0.1,True
+Cachorro Grande,7175,0.1,True
+Puddle of Mudd,7175,0.1,True
+Kudai,7170,0.1,True
+Nik Kershaw,7163,0.09,True
+Kool Savas,7152,0.09,True
+Framing Hanley,7151,0.09,True
+Nasum,7147,0.09,True
+ZZ Top,7144,0.09,True
+Cool Kids of Death,7121,0.09,True
+William Fitzsimmons,7115,0.09,True
+Cold,7112,0.09,True
+she,7110,0.09,True
+蔡依林,7097,0.09,True
+Against Me!,7095,0.09,True
+Emilie Simon,7088,0.09,True
+iamamiwhoami,7080,0.09,True
+Omnia,7079,0.09,True
+Aretha Franklin,7064,0.09,True
+311,7059,0.09,True
+Sandy e Junior,7056,0.09,True
+Front 242,7054,0.09,True
+Hinder,7042,0.09,True
+Atari Teenage Riot,7019,0.09,True
+Santigold,7016,0.09,True
+Walls of Jericho,7002,0.09,True
+Edwyn Collins,6999,0.09,True
+I Set My Friends On Fire,6987,0.09,True
+Jónsi,6986,0.09,True
+Sabaton,6980,0.09,True
+Halou,6967,0.09,True
+"Sqad Up, Lil Wayne",6962,0.09,True
+Gene Vincent,6953,0.09,True
+Gavin DeGraw,6945,0.09,True
+2PM,6937,0.09,True
+Justin Nozuka,6932,0.09,True
+Late of the Pier,6928,0.09,True
+Stars of the Lid,6925,0.09,True
+The Cramps,6920,0.09,True
+Rouge,6920,0.09,True
+Morbid Angel,6908,0.09,True
+Bee Gees,6894,0.09,True
+Velvet Acid Christ,6891,0.09,True
+Bondage Fairies,6887,0.09,True
+Agnetha Fältskog,6886,0.09,True
+Orbital,6885,0.09,True
+Dropkick Murphys,6883,0.09,True
+happysad,6881,0.09,True
+OK Go,6877,0.09,True
+Hadise,6877,0.09,True
+Christina Milian,6870,0.09,True
+Crossfade,6867,0.09,True
+Julieta Venegas,6855,0.09,True
+The Gaslight Anthem,6846,0.09,True
+Jerry Lee Lewis,6834,0.09,True
+Yelle,6833,0.09,True
+Team Sleep,6829,0.09,True
+Thin Lizzy,6829,0.09,True
+The Beatmasters,6823,0.09,True
+Lee Ryan,6798,0.08,True
+LeAnn Rimes,6798,0.08,True
+Andrés Calamaro,6788,0.08,True
+Dominik Eulberg,6786,0.08,True
+Blood on the Dance Floor,6765,0.08,True
+Craig Armstrong,6764,0.08,True
+Ritual,6756,0.08,True
+Animal ДжаZ,6749,0.08,True
+Marco Masini,6740,0.08,True
+Alejandro Sanz,6730,0.08,True
+Vanguart,6727,0.08,True
+Idina Menzel,6722,0.08,True
+Comeback Kid,6713,0.08,True
+Antônio Carlos Jobim,6712,0.08,True
+Europe,6709,0.08,True
+Billie Holiday,6706,0.08,True
+Tin Tin Out,6704,0.08,True
+The Temper Trap,6700,0.08,True
+The Dandy Warhols,6699,0.08,True
+Die Happy,6684,0.08,True
+Crowded House,6673,0.08,True
+Fatboy Slim,6656,0.08,True
+Throbbing Gristle,6645,0.08,True
+Rita Lee,6644,0.08,True
+Yngwie Malmsteen,6634,0.08,True
+Lenine,6630,0.08,True
+Black Flag,6622,0.08,True
+Sugarplum Fairy,6620,0.08,True
+Captain Beefheart & His Magic Band,6619,0.08,True
+The Bloody Beetroots,6617,0.08,True
+Zeromancer,6615,0.08,True
+Alien Sex Fiend,6612,0.08,True
+Adema,6600,0.08,True
+Ryan Cabrera,6595,0.08,True
+The Power Station,6590,0.08,True
+Au4,6574,0.08,True
+Mr Hudson,6569,0.08,True
+Brooks & Dunn,6564,0.08,True
+We Are Scientists,6563,0.08,True
+Vitamin C,6561,0.08,True
+Paulina Rubio,6559,0.08,True
+Assemblage 23,6556,0.08,True
+The Pierces,6545,0.08,True
+Elbow,6537,0.08,True
+Propagandhi,6526,0.08,True
+House vs. Hurricane,6524,0.08,True
+Christian Death,6521,0.08,True
+GACKT,6520,0.08,True
+The Jesus and Mary Chain,6517,0.08,True
+Wavves,6513,0.08,True
+Mustafa Sandal,6507,0.08,True
+Cine,6496,0.08,True
+Max Richter,6495,0.08,True
+The Appleseed Cast,6483,0.08,True
+CRASHDÏET,6481,0.07,True
+Kevin Devine,6475,0.07,True
+Bonde do Rolê,6467,0.07,True
+Dokken,6465,0.07,True
+Emilíana Torrini,6443,0.07,True
+Kent,6438,0.07,True
+Our Lady Peace,6428,0.07,True
+Mos Def,6426,0.07,True
+Alan Jackson,6423,0.07,True
+Hawthorne Heights,6422,0.07,True
+Terror,6420,0.07,True
+XTC,6417,0.07,True
+Guster,6413,0.07,True
+Santana,6391,0.07,True
+Millionaires,6372,0.07,True
+Diana Vickers,6370,0.07,True
+Architects,6365,0.07,True
+Handshakes And Highfives,6359,0.07,True
+Кино,6357,0.07,True
+Strike,6345,0.07,True
+Subheim,6345,0.07,True
+Lorraine,6342,0.07,True
+Eric Saade,6337,0.07,True
+Jedi Mind Tricks,6326,0.07,True
+The Locust,6317,0.07,True
+Mallu Magalhães,6317,0.07,True
+Hasan Tayyar,6303,0.07,True
+Jermaine Jackson,6302,0.07,True
+Robin Thicke,6298,0.07,True
+Iggy Pop,6293,0.07,True
+Archive,6292,0.07,True
+Godspeed You! Black Emperor,6290,0.07,True
+Coma,6283,0.07,True
+The Pipettes,6282,0.07,True
+Marc Lavoine,6280,0.07,True
+Vive la Fête,6258,0.07,True
+A*Teens,6258,0.07,True
+Joe Satriani,6255,0.07,True
+Culture Club,6246,0.07,True
+Everclear,6244,0.07,True
+New Model Army,6242,0.07,True
+Robi Draco Rosa,6242,0.07,True
+Alan,6235,0.07,True
+Tracy Chapman,6226,0.07,True
+Marya Roxx,6220,0.07,True
+This Will Destroy You,6212,0.07,True
+Mae,6210,0.07,True
+Howlin' Wolf,6204,0.07,True
+Insite,6200,0.07,True
+Grade 8,6193,0.07,True
+Ani DiFranco,6193,0.07,True
+Emmure,6192,0.07,True
+Hubert Kah,6190,0.07,True
+Seal,6187,0.07,True
+Dusty Springfield,6187,0.07,True
+Reação em Cadeia,6185,0.07,True
+Cannibal Corpse,6185,0.07,True
+We Came As Romans,6180,0.07,True
+Times New Viking,6178,0.07,True
+Ария,6177,0.07,True
+The Dead Weather,6171,0.07,True
+Faith Hill,6167,0.07,True
+Parque En El Espacio,6166,0.07,True
+Pennywise,6160,0.07,True
+Steve Appleton,6148,0.07,True
+Whitechapel,6145,0.07,True
++44,6127,0.06,True
+Yellow Magic Orchestra,6126,0.06,True
+Dolphin,6125,0.06,True
+Fresh Cherries From Yakima,6110,0.06,True
+"Woe, Is Me",6097,0.06,True
+Mr. Bungle,6096,0.06,True
+Betty Boo,6085,0.06,True
+Electrocute,6081,0.06,True
+Deerhoof,6067,0.06,True
+Zebrahead,6067,0.06,True
+Robert Johnson,6062,0.06,True
+A Tribe Called Quest,6055,0.06,True
+Blood Stain Child,6052,0.06,True
+Beeshop,6052,0.06,True
+Alcazar,6049,0.06,True
+The Hellacopters,6048,0.06,True
+Mudvayne,6048,0.06,True
+Meshuggah,6046,0.06,True
+Carnifex,6043,0.06,True
+Paul Weller,6037,0.06,True
+12 Stones,6034,0.06,True
+Matt & Kim,6031,0.06,True
+Сплин,6031,0.06,True
+Agnes,6029,0.06,True
+Tactical Sekt,6022,0.06,True
+Aaron Carter,6007,0.06,True
+Bomb the Bass,6006,0.06,True
+Zombina and the Skeletones,5989,0.06,True
+Foetus,5988,0.06,True
+The Yardbirds,5986,0.06,True
+Julian Casablancas,5985,0.06,True
+中島美嘉,5981,0.06,True
+Muddy Waters,5980,0.06,True
+Carla Bruni,5975,0.06,True
+Raekwon,5970,0.06,True
+Twisted Sister,5969,0.06,True
+The Tea Party,5967,0.06,True
+Maysa,5965,0.06,True
+Bathory,5963,0.06,True
+Diante do Trono,5955,0.06,True
+Bone Thugs-N-Harmony,5952,0.06,True
+Tarkan,5949,0.06,True
+Gov't Mule,5947,0.06,True
+Mark Lanegan,5945,0.06,True
+The Cooper Temple Clause,5938,0.06,True
+Architecture in Helsinki,5937,0.06,True
+Hypocrisy,5933,0.06,True
+Bombay Bicycle Club,5926,0.06,True
+The Monkees,5922,0.06,True
+Sarah Connor,5921,0.06,True
+The Game,5920,0.06,True
+Scott Walker,5919,0.06,True
+Colony 5,5909,0.06,True
+Gnarls Barkley,5905,0.06,True
+雅-MIYAVI-,5901,0.06,True
+HIGH and MIGHTY COLOR,5894,0.06,True
+Farben Lehre,5891,0.06,True
+I Killed the Prom Queen,5874,0.06,True
+Julianne Hough,5860,0.06,True
+The Adicts,5855,0.06,True
+Basement Jaxx,5854,0.06,True
+Trading Yesterday,5848,0.06,True
+Violins,5839,0.06,True
+Visage,5834,0.06,True
+Deep Forest,5831,0.06,True
+Public Enemy,5831,0.06,True
+Toro y Moi,5812,0.06,True
+Best Coast,5812,0.06,True
+mind.in.a.box,5800,0.06,True
+いきものがかり,5798,0.05,True
+Greeley Estates,5790,0.05,True
+Ray Charles,5790,0.05,True
+Maria Bethânia,5787,0.05,True
+Marek Grechuta,5784,0.05,True
+Red Flag,5779,0.05,True
+Strike Anywhere,5775,0.05,True
+The 69 Eyes,5768,0.05,True
+Jeremy Camp,5767,0.05,True
+I Blame Coco,5753,0.05,True
+Camille,5750,0.05,True
+Edyta Górniak,5749,0.05,True
+Tiziano Ferro,5744,0.05,True
+Yezda Urfa,5732,0.05,True
+Bell X1,5719,0.05,True
+KoЯn,5713,0.05,True
+Devin Townsend Project,5712,0.05,True
+NLT,5709,0.05,True
+Chakuza,5701,0.05,True
+Tequila Baby,5699,0.05,True
+HorrorPops,5690,0.05,True
+Eluvium,5687,0.05,True
+Sissel,5687,0.05,True
+Alestorm,5685,0.05,True
+After Forever,5676,0.05,True
+Mansun,5666,0.05,True
+The Black Crowes,5657,0.05,True
+Belanova,5652,0.05,True
+Eve,5650,0.05,True
+Stacie Orrico,5636,0.05,True
+B.B. King,5630,0.05,True
+Ghostface Killah,5630,0.05,True
+Dean Geyer,5615,0.05,True
+The Surf Coasters,5601,0.05,True
+Paul Kalkbrenner,5593,0.05,True
+Craig David,5585,0.05,True
+Annie,5583,0.05,True
+Ewa Farna,5576,0.05,True
+Joan Baez,5576,0.05,True
+Nuclear Assault,5575,0.05,True
+Elis Regina,5571,0.05,True
+Timbaland & Magoo,5571,0.05,True
+Zoé,5570,0.05,True
+Pyranja,5565,0.05,True
+Kyuss,5559,0.05,True
+平沢進,5553,0.05,True
+Paul Anka,5544,0.05,True
+Stevie Ray Vaughan,5530,0.05,True
+The Lightning Seeds,5529,0.05,True
+Journey,5527,0.05,True
+The Matches,5515,0.05,True
+Mike Patton,5513,0.05,True
+Kyte,5512,0.05,True
+All Shall Perish,5498,0.05,True
+Morphine,5498,0.05,True
+Milburn,5494,0.05,True
+Prefab Sprout,5491,0.05,True
+Real Estate,5489,0.05,True
+Ctrl-Alt-Delete,5489,0.05,True
+Caetano Veloso,5487,0.05,True
+ギルガメッシュ,5482,0.05,True
+The Wombats,5480,0.05,True
+Sinéad O'Connor,5470,0.05,True
+Luis Miguel,5468,0.05,True
+Kajagoogoo,5468,0.05,True
+Ol' Dirty Bastard,5462,0.05,True
+菅野よう子,5460,0.05,True
+Annie Lennox,5448,0.04,True
+Chelsea Grin,5445,0.04,True
+Dysphoria,5444,0.04,True
+Christian Chávez,5442,0.04,True
+Secret Garden,5438,0.04,True
+Foreigner,5428,0.04,True
+Måns Zelmerlöw,5427,0.04,True
+Clare Maguire,5424,0.04,True
+D.R.I.,5421,0.04,True
+Doves,5414,0.04,True
+Saint Etienne,5410,0.04,True
+James Brown,5404,0.04,True
+Brown Eyed Girls,5403,0.04,True
+Armor for Sleep,5402,0.04,True
+Emmy Rossum,5400,0.04,True
+A Flock of Seagulls,5399,0.04,True
+Saliva,5378,0.04,True
+Mombojó,5377,0.04,True
+Blood Red Shoes,5374,0.04,True
+At the Drive-In,5374,0.04,True
+Municipal Waste,5373,0.04,True
+The Spill Canvas,5368,0.04,True
+Van der Graaf Generator,5357,0.04,True
+Psychic TV,5357,0.04,True
+Harry Gregson-Williams,5349,0.04,True
+Sugar Kane,5348,0.04,True
+Cat Stevens,5342,0.04,True
+Blacklisted,5342,0.04,True
+The John Butler Trio,5340,0.04,True
+Lords of Acid,5339,0.04,True
+Billy Ray Cyrus,5329,0.04,True
+KSU,5322,0.04,True
+Voxtrot,5313,0.04,True
+The Perishers,5310,0.04,True
+Frontside,5308,0.04,True
+Display,5304,0.04,True
+Xiu Xiu,5297,0.04,True
+Oingo Boingo,5289,0.04,True
+XXX Maniak,5279,0.04,True
+Annihilator,5277,0.04,True
+Kitaro,5266,0.04,True
+Clap Your Hands Say Yeah,5264,0.04,True
+Rock Rocket,5264,0.04,True
+The Wreckers,5261,0.04,True
+Au Revoir Simone,5259,0.04,True
+Fugazi,5255,0.04,True
+Plastiscines,5254,0.04,True
+Krystal Meyers,5247,0.04,True
+Set Your Goals,5244,0.04,True
+嵐,5229,0.04,True
+Mini k Bros,5227,0.04,True
+Kaizers Orchestra,5226,0.04,True
+Klaus Nomi,5225,0.04,True
+Sezen Aksu,5221,0.04,True
+Stereolab,5221,0.04,True
+Raven-Symoné,5216,0.04,True
+The Clientele,5213,0.04,True
+Immortal,5211,0.04,True
+Groove Coverage,5211,0.04,True
+Weird Al Yankovic,5210,0.04,True
+Neilos,5208,0.04,True
+We Are the Fallen,5206,0.04,True
+The Hillbilly Moon Explosion,5205,0.04,True
+La Oreja de Van Gogh,5204,0.04,True
+M. Ward,5203,0.04,True
+Her Bright Skies,5188,0.04,True
+Tom Petty and the Heartbreakers,5187,0.04,True
+JLS,5176,0.04,True
+Soulfly,5176,0.04,True
+Sunshine,5174,0.04,True
+Włochaty,5172,0.04,True
+My Life with the Thrill Kill Kult,5171,0.04,True
+Bobby Valentino,5161,0.04,True
+Последние Танки В Париже,5151,0.04,True
+The Lonely Island,5140,0.04,True
+From Autumn to Ashes,5136,0.04,True
+Carbona,5130,0.04,True
+Wham!,5128,0.04,True
+Cash Cash,5122,0.04,True
+Estopa,5120,0.04,True
+The Bird and The Bee,5120,0.04,True
+HORSE the band,5119,0.04,True
+Haftbefehl,5109,0.03,True
+Kasia Kowalska,5108,0.03,True
+Running Wild,5100,0.03,True
+Teenage Fanclub,5099,0.03,True
+Fischerspooner,5097,0.03,True
+Status Quo,5094,0.03,True
+Nikka Costa,5090,0.03,True
+Tiny Vipers,5089,0.03,True
+Midnight Juggernauts,5089,0.03,True
+梶浦由記,5087,0.03,True
+Jóhann Jóhannsson,5085,0.03,True
+Françoise Hardy,5083,0.03,True
+Бригадный Подряд,5081,0.03,True
+Moonspell,5080,0.03,True
+Laibach,5076,0.03,True
+Napalm Death,5075,0.03,True
+Crass,5065,0.03,True
+Yanni,5062,0.03,True
+Otis Redding,5053,0.03,True
+Straylight Run,5052,0.03,True
+Yeasayer,5051,0.03,True
+Forgotten Boys,5045,0.03,True
+Theatres des Vampires,5045,0.03,True
+Auf der Maur,5043,0.03,True
+Rory Gallagher,5035,0.03,True
+K.I.Z.,5034,0.03,True
+Nando Reis,5030,0.03,True
+Marsha Ambrosius,5026,0.03,True
+Esmée Denters,5024,0.03,True
+Axel Fernando,5022,0.03,True
+Destruction,5019,0.03,True
+Die Fantastischen Vier,5017,0.03,True
+Heaven Shall Burn,5016,0.03,True
+Püdelsi,5015,0.03,True
+Juan Luis Guerra,5005,0.03,True
+Ian Brown,5001,0.03,True
+Vibrasphere,4997,0.03,True
+The Acacia Strain,4988,0.03,True
+Joe Brooks,4987,0.03,True
+Mägo de Oz,4979,0.03,True
+Secondhand Serenade,4964,0.03,True
+Esthero,4962,0.03,True
+Elisa,4958,0.03,True
+Sondre Lerche,4957,0.03,True
+Ryan Tedder,4952,0.03,True
+Dethklok,4947,0.03,True
+Savatage,4940,0.03,True
+Jawbreaker,4938,0.03,True
+As Blood Runs Black,4934,0.03,True
+Joan Jett and the Blackhearts,4932,0.03,True
+Dolores O'Riordan,4931,0.03,True
+The Music,4928,0.03,True
+Lauryn Hill,4923,0.03,True
+Jessie James,4919,0.03,True
+Billy Idol,4919,0.03,True
+Falling Up,4913,0.03,True
+Insane Clown Posse,4912,0.03,True
+Watchout! There's Ghosts,4910,0.03,True
+Thirteen Senses,4904,0.03,True
+McAlmont & Butler,4900,0.03,True
+Мумий Тролль,4893,0.03,True
+Lordi,4890,0.03,True
+Trash Talk,4889,0.03,True
+Kellie Pickler,4883,0.03,True
+The Whitest Boy Alive,4879,0.03,True
+Data 80,4871,0.03,True
+Modern Talking,4865,0.03,True
+Marié Digby,4863,0.03,True
+Volbeat,4863,0.03,True
+Pete Yorn & Scarlett Johansson,4857,0.03,True
+GZA/Genius,4848,0.03,True
+Dead or Alive,4844,0.03,True
+Kettel,4841,0.03,True
+Train,4829,0.03,True
+Ben Folds Five,4821,0.03,True
+The Go-Go's,4811,0.03,True
+Broadcast,4808,0.03,True
+Andrea Bocelli,4808,0.03,True
+Dance of Days,4802,0.03,True
+The Band Perry,4800,0.03,True
+PENICILLIN,4799,0.03,True
+Black Light Burns,4795,0.03,True
+Emancipator,4793,0.03,True
+John Foxx,4781,0.03,True
+Thriving Ivory,4779,0.03,True
+BarlowGirl,4759,0.02,True
+Hardcore Superstar,4758,0.02,True
+Steely Dan,4756,0.02,True
+Louis Armstrong,4755,0.02,True
+Wisin & Yandel,4739,0.02,True
+Madness,4739,0.02,True
+Sam Sparro,4739,0.02,True
+Eva Simons,4739,0.02,True
+Will Smith,4738,0.02,True
+Utada,4736,0.02,True
+Benny Benassi,4733,0.02,True
+Savoy,4729,0.02,True
+Слот,4729,0.02,True
+Cinderella,4726,0.02,True
+Friendly Fires,4722,0.02,True
+MBLAQ,4719,0.02,True
+Solar Fields,4714,0.02,True
+Boys Noize,4708,0.02,True
+Paul McCartney & Wings,4700,0.02,True
+Adept,4698,0.02,True
+동방신기,4689,0.02,True
+Death from Above 1979,4686,0.02,True
+AZ,4681,0.02,True
+New Kids on the Block,4678,0.02,True
+Curve,4677,0.02,True
+Cazuza,4676,0.02,True
+The Tiger Lillies,4670,0.02,True
+Iron Jesus,4669,0.02,True
+Fantasia,4669,0.02,True
+松尾清憲,4661,0.02,True
+Blue October,4655,0.02,True
+Leaves' Eyes,4649,0.02,True
+Rachael Yamagata,4646,0.02,True
+Lush,4646,0.02,True
+Khoiba,4640,0.02,True
+Chris Cornell,4635,0.02,True
+Minor Threat,4635,0.02,True
+Alexandra Stan,4635,0.02,True
+Fabolous,4631,0.02,True
+The Format,4627,0.02,True
+Before the Dawn,4625,0.02,True
+Taproot,4624,0.02,True
+Van Morrison,4616,0.02,True
+Provision,4614,0.02,True
+Soulwax,4613,0.02,True
+The Future Sound of London,4611,0.02,True
+Henning Pauly,4611,0.02,True
+The Sandwitches,4607,0.02,True
+Juanes,4606,0.02,True
+Travie McCoy,4606,0.02,True
+Eisregen,4603,0.02,True
+Sleeping With Sirens,4603,0.02,True
+G-Dragon,4596,0.02,True
+Shpongle,4589,0.02,True
+Eros Ramazzotti,4585,0.02,True
+Current 93,4581,0.02,True
+Kristinia DeBarge,4578,0.02,True
+Kyo,4567,0.02,True
+The Faint,4561,0.02,True
+Grand Funk Railroad,4557,0.02,True
+Donots,4546,0.02,True
+Chicago,4543,0.02,True
+Cursive,4539,0.02,True
+Porcelain and the Tramps,4530,0.02,True
+Richard Hawley,4521,0.02,True
+Lagwagon,4518,0.02,True
+The Gathering,4518,0.02,True
+The Books,4517,0.02,True
+Kataklysm,4511,0.02,True
+Smile Empty Soul,4507,0.02,True
+Jason Aldean,4504,0.02,True
+MxPx,4504,0.02,True
+Gogol Bordello,4501,0.02,True
+Toad the Wet Sprocket,4500,0.02,True
+Jon Foreman,4496,0.02,True
+빅뱅,4493,0.02,True
+twin cities,4492,0.02,True
+Ahmet Kaya,4486,0.02,True
+Delays,4478,0.02,True
+Chase & Status,4473,0.02,True
+Angelspit,4471,0.02,True
+Rod Stewart,4468,0.02,True
+Nautilus Pompilius,4466,0.02,True
+E.S. Posthumus,4465,0.02,True
+Gentle Giant,4462,0.02,True
+Marianas Trench,4447,0.02,True
+Box Car Racer,4446,0.02,True
+Portugal. The Man,4444,0.02,True
+Anna Tatangelo,4444,0.02,True
+Tenhi,4444,0.02,True
+Armand van Helden,4443,0.02,True
+Nekromantix,4442,0.02,True
+Guided by Voices,4436,0.02,True
+Czesław Śpiewa,4435,0.01,True
+See You Next Tuesday,4433,0.01,True
+Héroes del Silencio,4433,0.01,True
+DJ Krush,4432,0.01,True
+Pink Puffers,4431,0.01,True
+Mukeka Di Rato,4426,0.01,True
+Grabaż i Strachy Na Lachy,4425,0.01,True
+Finger Eleven,4420,0.01,True
+After One,4415,0.01,True
+Buckcherry,4415,0.01,True
+Hot Hot Heat,4414,0.01,True
+Nightingale,4412,0.01,True
+Threshold,4410,0.01,True
+Little Big Town,4408,0.01,True
+Papoose,4406,0.01,True
+Empyrium,4401,0.01,True
+Cephalic Carnage,4400,0.01,True
+Axiz,4393,0.01,True
+Parov Stelar,4390,0.01,True
+The Avett Brothers,4389,0.01,True
+The Maccabees,4386,0.01,True
+Michelle Williams,4384,0.01,True
+Elissa,4383,0.01,True
+Boney neM,4383,0.01,True
+Cody Simpson,4379,0.01,True
+LaFee,4378,0.01,True
+Sleeping States,4375,0.01,True
+The Donnas,4372,0.01,True
+Carcass,4371,0.01,True
+The Veils,4369,0.01,True
+Lesley Roy,4365,0.01,True
+Proem,4362,0.01,True
+Chew Lips,4349,0.01,True
+Evergreen Terrace,4345,0.01,True
+David Sylvian,4338,0.01,True
+Le Tigre,4323,0.01,True
+Sonohra,4316,0.01,True
+Dana International,4315,0.01,True
+Jeremih,4315,0.01,True
+Alesha Dixon,4314,0.01,True
+Disciple,4310,0.01,True
+Tech N9ne,4305,0.01,True
+Les Rythmes Digitales,4303,0.01,True
+Them Crooked Vultures,4302,0.01,True
+Propaganda,4301,0.01,True
+Jacek Kaczmarski,4294,0.01,True
+The Exies,4292,0.01,True
+Rudimentary Peni,4291,0.01,True
+Luke Bryan,4291,0.01,True
+Antimatter,4287,0.01,True
+Marvin Gaye,4286,0.01,True
+HEVO84,4284,0.01,True
+Lenny Kravitz,4282,0.01,True
+Elmore James,4275,0.01,True
+Elio e le Storie Tese,4271,0.01,True
+Insomnium,4270,0.01,True
+Can,4269,0.01,True
+Rob Dougan,4265,0.01,True
+Grandaddy,4264,0.01,True
+Jo Dee Messina,4260,0.01,True
+Richard Ashcroft,4257,0.01,True
+Tweet,4249,0.01,True
+3 Inches of Blood,4241,0.01,True
+The Jackson 5,4239,0.01,True
+The Cult,4237,0.01,True
+Kate Ryan,4237,0.01,True
+Willie Nelson,4234,0.01,True
+Amber Pacific,4234,0.01,True
+André Valadão,4232,0.01,True
+Tuatha De Danann,4230,0.01,True
+Example,4229,0.01,True
+George Carlin,4225,0.01,True
+Helena Paparizou,4223,0.01,True
+Édith Piaf,4221,0.01,True
+f(x),4221,0.01,True
+VV Brown,4212,0.01,True
+Verse,4212,0.01,True
+Accept,4210,0.01,True
+Blank & Jones,4209,0.01,True
+Eliza Doolittle,4203,0.01,True
+Julio Iglesias,4202,0.01,True
+TRUSTcompany,4202,0.01,True
+Moloko,4201,0.01,True
+Mýa,4197,0.01,True
+Flunk,4195,0.01,True
+Matt Bianco,4194,0.01,True
+The Black Mages,4191,0.01,True
+Jay Reatard,4189,0.01,True
+A.C.T,4187,0.01,True
+Mr. Oizo,4184,0.01,True
+The Fall,4180,0.01,True
+Job for a Cowboy,4177,0.01,True
+Paul Simon,4173,0.01,True
+Caribou,4173,0.01,True
+Don Omar,4172,0.01,True
+The Crystal Method,4170,0.01,True
+The Films,4166,0.01,True
+Amethystium,4154,0.01,True
+Young Jeezy,4145,0.01,True
+島みやえい子,4144,0.01,True
+Finley,4143,0.01,True
+Oficina G3,4141,0.01,True
+Bethany Joy Lenz,4134,0.01,True
+Rooney,4133,0.01,True
+Peter Bjorn and John,4133,0.01,True
+The Starting Line,4131,0.01,True
+Sixpence None the Richer,4129,0.01,True
+Moenia,4119,0.01,True
+Sparklehorse,4116,0.01,True
+5'nizza,4114,0.01,True
+Eldo,4113,0.01,True
+...And You Will Know Us by the Trail of Dead,4110,0.01,True
+Otep,4108,0.01,True
+Nick Carter,4103,0.01,True
+Simply Red,4099,0.01,True
+Screaming Trees,4099,0.01,True
+Xavier Naidoo,4095,0.01,True
+Кровосток,4091,0.0,True
+The Dear Hunter,4089,0.0,True
+Carbon Based Lifeforms,4088,0.0,True
+Scracho,4084,0.0,True
+Gavin Rossdale,4078,0.0,True
+The Sight Below,4078,0.0,True
+Gay Fairy Tales,4077,0.0,True
+Sentenced,4077,0.0,True
+Sunrise Avenue,4072,0.0,True
+Jay Dee,4071,0.0,True
+Pure Reason Revolution,4069,0.0,True
+Sakura,4069,0.0,True
+Grendel,4067,0.0,True
+Olivia,4061,0.0,True
+The Weakerthans,4058,0.0,True
+Ryan Adams & The Cardinals,4057,0.0,True
+Acústicos & Valvulados,4056,0.0,True
+鬼束ちひろ,4056,0.0,True
+Gamma Ray,4055,0.0,True
+This Beautiful Republic,4053,0.0,True
+Jérémy Amelin,4052,0.0,True
+Elle Milano,4048,0.0,True
+808 State,4039,0.0,True
+Metronomy,4033,0.0,True
+Myslovitz,4032,0.0,True
+Social Distortion,4031,0.0,True
+Victoria Beckham,4027,0.0,True
+Geri Halliwell,4025,0.0,True
+Mono,4024,0.0,True
+Maria Rita,4022,0.0,True
+Bonnie 'Prince' Billy,4021,0.0,True
+Kid Abelha,4021,0.0,True
+Joe McElderry,4021,0.0,True
+Planet Hemp,4016,0.0,True
+Glassjaw,4014,0.0,True
+Alina Orlova,4011,0.0,True
+Primal Scream,4006,0.0,True
+The Cinematic Orchestra,4005,0.0,True
+The Cars,4004,0.0,True
+Buzzcocks,3999,0.0,True
+Murray Gold,3995,0.0,True
+Thee Oh Sees,3994,0.0,True
+Colby O'Donis,3989,0.0,True
+Allison Iraheta,3985,0.0,True
+Orchid,3983,0.0,True
+Dangers,3982,0.0,True
+Chimaira,3978,0.0,True
+Symphony X,3974,0.0,True
+Theatre of Tragedy,3971,0.0,True
+Teen Angels,3969,0.0,True
+S'Express,3967,0.0,True
+Jazmine Sullivan,3966,0.0,True
+Hunter,3966,0.0,True
+Kara,3962,0.0,True
+Yiruma,3959,0.0,True
+RZA,3958,0.0,True
+Panda,3954,0.0,True
+Amatory,3953,0.0,True
+Kiley Dean,3953,0.0,True
+Tim Hecker,3952,0.0,True
+Joshua Radin,3951,0.0,True
+Mumford & Sons,3951,0.0,True
+Гражданская Оборона,3950,0.0,True
+Hanoi Rocks,3944,0.0,True
+Studio 3,3939,0.0,True
+Kara Güneş,3934,0.0,True
+Neko Case,3932,0.0,True
+Grace Jones,3931,0.0,True
+Orange Juice,3929,0.0,True
+Пилот,3928,0.0,True
+Lissy Trullie,3927,0.0,True
+Aloha From Hell,3926,0.0,True
+Kim Wilde,3922,-0.0,True
+Everything Is Made in China,3922,-0.0,True
+John Legend,3921,-0.0,True
+John Lee Hooker,3916,-0.0,True
+Dezerter,3914,-0.0,True
+Magne F,3910,-0.0,True
+Women,3905,-0.0,True
+Warren Haynes,3894,-0.0,True
+Mashonda,3893,-0.0,True
+Sportfreunde Stiller,3881,-0.0,True
+Fefe Dobson,3873,-0.0,True
+Cartel,3870,-0.0,True
+Howard Jones,3868,-0.0,True
+Superguidis,3867,-0.0,True
+Maná,3864,-0.0,True
+Alice in Videoland,3859,-0.0,True
+E Nomine,3859,-0.0,True
+"Jump, Little Children",3858,-0.0,True
+RAM RIDER,3858,-0.0,True
+Diana Krall,3857,-0.0,True
+Clark,3848,-0.0,True
+Daedelus,3847,-0.0,True
+Vanilla Ice,3843,-0.0,True
+"Emerson, Lake & Palmer",3842,-0.0,True
+Abney Park,3833,-0.0,True
+Wynter Gordon,3831,-0.0,True
+Unter Null,3829,-0.0,True
+Bree Sharp,3822,-0.0,True
+The Blackout,3821,-0.0,True
+The Crüxshadows,3820,-0.0,True
+(hed) Planet Earth,3815,-0.0,True
+Violet Indiana,3815,-0.0,True
+The Jacksons,3811,-0.0,True
+Anthony Rother,3811,-0.0,True
+Marjorie Estiano,3809,-0.0,True
+Bob Seger,3809,-0.0,True
+VAST,3802,-0.0,True
+Kosheen,3801,-0.0,True
+久石譲,3800,-0.0,True
+Ferry Corsten,3791,-0.0,True
+Karnivool,3789,-0.0,True
+Red House Painters,3789,-0.0,True
+Young Guns,3787,-0.0,True
+Teairra Mari,3787,-0.0,True
+Aimee Mann,3786,-0.0,True
+Eisbrecher,3779,-0.0,True
+Wolfsheim,3778,-0.0,True
+Shinichi Osawa,3771,-0.0,True
+H16,3771,-0.0,True
+Sixx:A.M.,3765,-0.0,True
+RJD2,3765,-0.0,True
+Lou Reed,3762,-0.0,True
+Bad Brains,3761,-0.0,True
+Mya,3759,-0.0,True
+Dima Bilan,3758,-0.0,True
+The Ark,3757,-0.0,True
+Immortal Technique,3754,-0.0,True
+Coconut Records,3752,-0.01,True
+Emery,3748,-0.01,True
+Elliott Yamin,3747,-0.01,True
+Ingrid Michaelson,3745,-0.01,True
+Superbus,3742,-0.01,True
+Dr. Acula,3741,-0.01,True
+Haste the Day,3736,-0.01,True
+Chylińska,3729,-0.01,True
+Snog,3728,-0.01,True
+Danny Fernandes,3728,-0.01,True
+Ariel Pink's Haunted Graffiti,3726,-0.01,True
+Robert Miles,3723,-0.01,True
+Светлана Лобода,3720,-0.01,True
+Andy Bell,3719,-0.01,True
+Lewd Acts,3719,-0.01,True
+The Ataris,3719,-0.01,True
+Andy Taylor,3717,-0.01,True
+Light This City,3715,-0.01,True
+Grup Yorum,3715,-0.01,True
+Every Time I Die,3709,-0.01,True
+Martina McBride,3708,-0.01,True
+#####,3707,-0.01,True
+Michael Andrews,3707,-0.01,True
+Ida Maria,3706,-0.01,True
+Lao Che,3703,-0.01,True
+Family Fantastic,3702,-0.01,True
+Front Line Assembly,3700,-0.01,True
+Massacre On The Dancefloor,3700,-0.01,True
+Pentagram,3698,-0.01,True
+Have Heart,3697,-0.01,True
+Fake Number,3697,-0.01,True
+Jamie T,3696,-0.01,True
+Camp Rock,3693,-0.01,True
+Double You,3691,-0.01,True
+Matisyahu,3689,-0.01,True
+Chris Bathgate,3683,-0.01,True
+Syrup16g,3681,-0.01,True
+Shadows Fall,3681,-0.01,True
+Eagles of Death Metal,3680,-0.01,True
+The Cab,3671,-0.01,True
+Big L,3670,-0.01,True
+I-Dep,3664,-0.01,True
+Arovane,3662,-0.01,True
+Talib Kweli,3659,-0.01,True
+La Dispute,3655,-0.01,True
+Rampkorv,3654,-0.01,True
+Ghost Brigade,3649,-0.01,True
+Across Five Aprils,3648,-0.01,True
+Eberg,3648,-0.01,True
+Living Colour,3645,-0.01,True
+Belinda Carlisle,3645,-0.01,True
+Ginuwine,3640,-0.01,True
+My Dying Bride,3637,-0.01,True
+Fagget Fairys,3635,-0.01,True
+Teedra Moses,3634,-0.01,True
+James Fauntleroy,3634,-0.01,True
+Supercar,3632,-0.01,True
+Café Del Mar,3622,-0.01,True
+Jazzkantine,3622,-0.01,True
+Sunset Rubdown,3619,-0.01,True
+Udora,3619,-0.01,True
+LMFAO,3619,-0.01,True
+X JAPAN,3616,-0.01,True
+Vader,3614,-0.01,True
+Silver Jews,3614,-0.01,True
+Lower Dens,3609,-0.01,True
+The Reign Of Kindo,3609,-0.01,True
+Abandon All Ships,3605,-0.01,True
+Sergey Lazarev,3602,-0.01,True
+Black Moth Super Rainbow,3597,-0.01,True
+Sean Kingston,3597,-0.01,True
+The Organ,3595,-0.01,True
+Chamillionaire,3586,-0.01,True
+Kimya Dawson,3577,-0.01,True
+Maximum the Hormone,3577,-0.01,True
+George Thorogood,3566,-0.01,True
+InMe,3563,-0.01,True
+Lillix,3562,-0.01,True
+Infernal,3561,-0.01,True
+Swans,3559,-0.01,True
+Scary Kids Scaring Kids,3559,-0.01,True
+Mortician,3557,-0.01,True
+H2O,3557,-0.01,True
+Andrew Lloyd Webber,3550,-0.01,True
+Luzmelt,3546,-0.01,True
+Pouca Vogal,3545,-0.01,True
+Lara Fabian,3545,-0.01,True
+Suicidal Tendencies,3541,-0.01,True
+Julie London,3539,-0.01,True
+Peter Doherty,3537,-0.01,True
+Danzig,3535,-0.01,True
+Jay-Jay Johanson,3534,-0.01,True
+Thursday,3533,-0.01,True
+Bandista,3531,-0.01,True
+三船　浩／キング男声合唱団,3524,-0.01,True
+Heaven & Hell,3523,-0.01,True
+The Stranglers,3520,-0.01,True
+The Mamas & The Papas,3519,-0.01,True
+Yagya,3518,-0.01,True
+Electric Disection,3518,-0.01,True
+Archie Star,3517,-0.01,True
+Xzibit,3516,-0.01,True
+Nek,3515,-0.01,True
+BWO,3513,-0.01,True
+Hanzel und Gretyl,3512,-0.01,True
+Happy Mondays,3510,-0.01,True
+Ektomorf,3509,-0.01,True
+Dope Stars Inc.,3508,-0.01,True
+The Last Of Lucy,3506,-0.01,True
+Океан Ельзи,3505,-0.01,True
+Ash,3504,-0.01,True
+SLAPPER,3494,-0.01,True
+The Moody Blues,3493,-0.01,True
+エンジェル隊,3491,-0.01,True
+浜渦正志,3490,-0.01,True
+Jane Air,3489,-0.01,True
+東方神起,3489,-0.01,True
+Donna Summer,3484,-0.01,True
+Monster Magnet,3482,-0.01,True
+Wael Kfoury,3480,-0.01,True
+Cherish,3480,-0.01,True
+Tiger Army,3480,-0.01,True
+Jordan Pruitt,3477,-0.01,True
+Camila,3472,-0.01,True
+Cancer Bats,3468,-0.01,True
+Cinedisco,3468,-0.01,True
+After School,3464,-0.01,True
+This Town Needs Guns,3463,-0.01,True
+Cazwell,3462,-0.01,True
+Amiina,3460,-0.01,True
+Arsonists Get All The Girls,3459,-0.01,True
+Maritime,3458,-0.01,True
+Meryl Streep,3451,-0.01,True
+At the Gates,3450,-0.01,True
+I Am Kloot,3449,-0.01,True
+Bayside,3448,-0.01,True
+Jadakiss,3448,-0.01,True
+Lydia,3448,-0.01,True
+N*E*R*D,3444,-0.01,True
+Suicide Commando,3441,-0.01,True
+Junkie XL,3441,-0.01,True
+Pseudo Echo,3441,-0.01,True
+John Taylor,3440,-0.01,True
+Angus & Julia Stone,3440,-0.01,True
+Silbermond,3439,-0.01,True
+PerroZompopo,3435,-0.01,True
+John Denver,3433,-0.01,True
+Obie Trice,3430,-0.01,True
+Straight Ahead,3430,-0.01,True
+Barry Manilow,3430,-0.01,True
+Noisettes,3429,-0.01,True
+Bohren & der Club of Gore,3428,-0.01,True
+Between the Trees,3427,-0.01,True
+Marie Serneholt,3427,-0.01,True
+Tom Petty,3427,-0.01,True
+Aural Vampire,3423,-0.01,True
+Modà,3415,-0.01,True
+EastWest Rockers,3414,-0.01,True
+Joaquín Sabina,3413,-0.01,True
+Graham Coxon,3407,-0.02,True
+N.R.M.,3407,-0.02,True
+Figurines,3406,-0.02,True
+Nick Lachey,3405,-0.02,True
+Saxon,3403,-0.02,True
+Tomahawk,3399,-0.02,True
+Edvin Marton,3399,-0.02,True
+The Birthday Party,3397,-0.02,True
+The Rapture,3397,-0.02,True
+Roberta Sá,3395,-0.02,True
+Satyricon,3390,-0.02,True
+Wonder Girls,3389,-0.02,True
+Robots in Disguise,3382,-0.02,True
+Salvador,3380,-0.02,True
+Mouse on Mars,3376,-0.02,True
+Evergrey,3375,-0.02,True
+Brie Larson,3374,-0.02,True
+Graf Orlock,3372,-0.02,True
+Farid Bang,3368,-0.02,True
+Liars,3366,-0.02,True
+Sex Gang Children,3366,-0.02,True
+Chayanne,3362,-0.02,True
+Ny,3360,-0.02,True
+The Four Tops,3358,-0.02,True
+Paint It Black,3355,-0.02,True
+Newton Faulkner,3353,-0.02,True
+The Trews,3351,-0.02,True
+Brujeria,3351,-0.02,True
+Elvis Costello & The Attractions,3350,-0.02,True
+Live,3345,-0.02,True
+Blaze,3345,-0.02,True
+HEALTH,3344,-0.02,True
+Megaherz,3341,-0.02,True
+Blind Melon,3339,-0.02,True
+Tristania,3338,-0.02,True
+Adam and the Ants,3336,-0.02,True
+Stare Dobre Małżeństwo,3335,-0.02,True
+ASIAN KUNG-FU GENERATION,3334,-0.02,True
+Abril,3333,-0.02,True
+Sara Evans,3332,-0.02,True
+Shivaree,3332,-0.02,True
+The Twilight Sad,3331,-0.02,True
+Dżem,3330,-0.02,True
+Lena,3322,-0.02,True
+Эпидемия,3322,-0.02,True
+Between the Buried and Me,3319,-0.02,True
+Patti Smith,3319,-0.02,True
+Kollegah,3318,-0.02,True
+Nivea,3318,-0.02,True
+Corrosion of Conformity,3318,-0.02,True
+The Ghost Inside,3317,-0.02,True
+Suzanne Vega,3317,-0.02,True
+The Frozen Autumn,3316,-0.02,True
+Beach Fossils,3314,-0.02,True
+Common,3313,-0.02,True
+Bonnie Tyler,3310,-0.02,True
+Bola,3309,-0.02,True
+Robert Plant,3308,-0.02,True
+FankaDeli,3307,-0.02,True
+Mnemic,3306,-0.02,True
+Shemales From outta Space of Death,3305,-0.02,True
+Söhne Mannheims,3303,-0.02,True
+Zeca Baleiro,3301,-0.02,True
+Shipwreck A.D.,3301,-0.02,True
+AFX,3297,-0.02,True
+U-KISS,3295,-0.02,True
+Steppenwolf,3295,-0.02,True
+Boyz II Men,3295,-0.02,True
+Dot Dot Curve :),3291,-0.02,True
+Equilibrium,3289,-0.02,True
+The Friday Night Boys,3287,-0.02,True
+John Mellencamp,3281,-0.02,True
+David Usher,3278,-0.02,True
+The Derek Trucks Band,3276,-0.02,True
+Ochre,3275,-0.02,True
+Heather Headley,3275,-0.02,True
+Cripple Bastards,3273,-0.02,True
+Sookee,3270,-0.02,True
+Diabolical Masquerade,3269,-0.02,True
+Snakeprint,3269,-0.02,True
+Primus,3260,-0.02,True
+Bibio,3255,-0.02,True
+Jonny Craig,3252,-0.02,True
+Bert Jansch,3251,-0.02,True
+Less Than Jake,3249,-0.02,True
+Sean Lennon,3247,-0.02,True
+Information Society,3246,-0.02,True
+Анна Герман,3246,-0.02,True
+Humble Pie,3245,-0.02,True
+Mystery Jets,3242,-0.02,True
+Mark Morgan,3242,-0.02,True
+Supergrass,3238,-0.02,True
+Space Cowboy,3236,-0.02,True
+"Oh, Sleeper",3233,-0.02,True
+Vanilla Ninja,3231,-0.02,True
+iwrestledabearonce,3229,-0.02,True
+A Silver Mt. Zion,3227,-0.02,True
+Maria Gadú,3225,-0.02,True
+Sacred Steel,3225,-0.02,True
+Good Shoes,3225,-0.02,True
+The Chariot,3223,-0.02,True
+Men Without Hats,3223,-0.02,True
+Gipsy Kings,3222,-0.02,True
+Theory of a Deadman,3221,-0.02,True
+CéU,3219,-0.02,True
+Saves the Day,3218,-0.02,True
+Delerium,3217,-0.02,True
+Steven Wilson,3207,-0.02,True
+Alexander Brandon,3206,-0.02,True
+Aqua,3201,-0.02,True
+Heart,3197,-0.02,True
+Styles P,3196,-0.02,True
+Nadia Oh,3195,-0.02,True
+Kutless,3191,-0.02,True
+Insect Warfare,3190,-0.02,True
+Slash,3187,-0.02,True
+Chico Science & Nação Zumbi,3187,-0.02,True
+Isles & Glaciers,3186,-0.02,True
+UVERworld,3185,-0.02,True
+Renato Russo,3184,-0.02,True
+The Agonist,3184,-0.02,True
+Aliceffekt,3183,-0.02,True
+L7,3179,-0.02,True
+Madeleine Peyroux,3179,-0.02,True
+Rick GhraphiXxX,3176,-0.02,True
+Pale Saints,3175,-0.02,True
+DOYOULIKE?,3172,-0.02,True
+The Wallflowers,3171,-0.02,True
+Kevin Riepl,3169,-0.02,True
+Brooke Hogan,3168,-0.02,True
+Barbra Streisand,3168,-0.02,True
+Novos Baianos,3168,-0.02,True
+Michael Giacchino,3167,-0.02,True
+Ana Cañas,3163,-0.02,True
+Claude Debussy,3162,-0.02,True
+TV-2,3162,-0.02,True
+Remy Zero,3162,-0.02,True
+Natiruts,3162,-0.02,True
+Minks,3160,-0.02,True
+Calexico,3160,-0.02,True
+Courtney Love,3157,-0.02,True
+Neneh Cherry,3152,-0.02,True
+Boney M.,3150,-0.02,True
+Electrik Red,3146,-0.02,True
+Jennifer Love Hewitt,3146,-0.02,True
+Bikini Kill,3146,-0.02,True
+Thomas Dolby,3145,-0.02,True
+Counting Crows,3144,-0.02,True
+Disarmonia Mundi,3139,-0.02,True
+Bow Wow,3138,-0.02,True
+Paloma Faith,3136,-0.02,True
+Mario,3136,-0.02,True
+Lost,3132,-0.02,True
+Agnostic Front,3128,-0.02,True
+ISAN,3127,-0.02,True
+ルルティア,3126,-0.02,True
+Kari Jobe,3123,-0.02,True
+We Are The Ocean,3115,-0.02,True
+Jonny Greenwood,3112,-0.02,True
+Vanessa-Mae,3112,-0.02,True
+The Chameleons,3111,-0.02,True
+Tinie Tempah,3110,-0.02,True
+Agoraphobic Nosebleed,3109,-0.02,True
+Passengers,3109,-0.02,True
+Maybeshewill,3107,-0.02,True
+Chris Spheeris,3106,-0.02,True
+Miike Snow,3101,-0.02,True
+Built to Spill,3100,-0.02,True
+Chrisette Michele,3099,-0.02,True
+Drake Bell,3099,-0.02,True
+Daniel Powter,3099,-0.02,True
+A Wilhelm Scream,3099,-0.02,True
+Sebadoh,3095,-0.02,True
+Toto,3094,-0.02,True
+Thermo,3091,-0.02,True
+XP8,3085,-0.02,True
+Russian Circles,3085,-0.02,True
+Jan Delay,3082,-0.02,True
+Tiê,3080,-0.02,True
+Sleater-Kinney,3080,-0.02,True
+Carissa's Wierd,3076,-0.02,True
+Coburn,3074,-0.02,True
+Stevie Ray Vaughan and Double Trouble,3074,-0.02,True
+Snow White's Poison Bite,3073,-0.02,True
+Kelly Osbourne,3073,-0.02,True
+Ella Fitzgerald,3073,-0.02,True
+Matt Pokora,3071,-0.03,True
+Okkervil River,3069,-0.03,True
+Ірина Білик,3067,-0.03,True
+Leathermouth,3062,-0.03,True
+Glenn Miller,3059,-0.03,True
+The Tears,3059,-0.03,True
+Toby Keith,3054,-0.03,True
+Land of Talk,3054,-0.03,True
+Demons & Wizards,3043,-0.03,True
+The Stooges,3042,-0.03,True
+Late Night Alumni,3040,-0.03,True
+Bloodparade,3039,-0.03,True
+Murder by Death,3039,-0.03,True
+Trans-Siberian Orchestra,3038,-0.03,True
+µ-Ziq,3034,-0.03,True
+Belvedere,3032,-0.03,True
+Meat Loaf,3031,-0.03,True
+BONNIE PINK,3030,-0.03,True
+Crematory,3030,-0.03,True
+Cabaret Voltaire,3029,-0.03,True
+Spiral69,3024,-0.03,True
+Sam Cooke,3019,-0.03,True
+MOSAIC.WAV,3019,-0.03,True
+Magrudergrind,3017,-0.03,True
+Buddy Guy,3015,-0.03,True
+Necrophagist,3014,-0.03,True
+Lovex,3013,-0.03,True
+Noir Désir,3012,-0.03,True
+Danielle Peck,3010,-0.03,True
+Bubba Sparxxx,3009,-0.03,True
+Jem,3009,-0.03,True
+In the Nursery,3006,-0.03,True
+Tubax,3005,-0.03,True
+Federico Miranda,3005,-0.03,True
+Lone,3004,-0.03,True
+Uniklubi,3003,-0.03,True
+The Fiery Furnaces,2999,-0.03,True
+Some Girls,2998,-0.03,True
+Mudhoney,2998,-0.03,True
+Lights Out Asia,2998,-0.03,True
+Killing Joke,2996,-0.03,True
+Amanda Palmer,2994,-0.03,True
+Little Richard,2988,-0.03,True
+Aqualung,2987,-0.03,True
+Erik Satie,2986,-0.03,True
+Shearwater,2982,-0.03,True
+Frightened Rabbit,2981,-0.03,True
+Kashmir,2981,-0.03,True
+One Morning Left,2980,-0.03,True
+Robin Guthrie & Harold Budd,2978,-0.03,True
+The Coral,2976,-0.03,True
+Abe Vigoda,2974,-0.03,True
+Mod Sun,2973,-0.03,True
+María Pretiz,2971,-0.03,True
+Mooncake,2970,-0.03,True
+The Notwist,2970,-0.03,True
+John Zorn,2969,-0.03,True
+Chris Garneau,2965,-0.03,True
+Farewell,2963,-0.03,True
+Girl Talk,2961,-0.03,True
+Hard-Fi,2960,-0.03,True
+O.N.A.,2959,-0.03,True
+Ludacris,2957,-0.03,True
+Future World Music,2956,-0.03,True
+Karl Wolf,2955,-0.03,True
+Amy Pearson,2949,-0.03,True
+Trembling Blue Stars,2947,-0.03,True
+天門,2946,-0.03,True
+Deathspell Omega,2943,-0.03,True
+Ceremony,2942,-0.03,True
+Chic,2941,-0.03,True
+A,2936,-0.03,True
+Joe Budden,2934,-0.03,True
+Madina Lake,2928,-0.03,True
+The Secret Handshake,2925,-0.03,True
+My Ticket Home,2924,-0.03,True
+Untouchable,2923,-0.03,True
+Lonny Breaux,2921,-0.03,True
+Marteria,2917,-0.03,True

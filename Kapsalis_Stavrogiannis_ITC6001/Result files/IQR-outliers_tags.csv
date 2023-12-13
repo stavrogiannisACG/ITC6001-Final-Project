@@ -1,0 +1,1593 @@
+tagValue,count,Z-score,IQR_meth
+rock,7503,44.45,True
+pop,5418,32.06,True
+alternative,5251,31.07,True
+electronic,4672,27.63,True
+indie,4458,26.36,True
+female vocalists,4228,25.0,True
+80s,2791,16.46,True
+dance,2739,16.15,True
+alternative rock,2631,15.51,True
+classic rock,2287,13.47,True
+british,2092,12.31,True
+indie rock,2060,12.12,True
+singer-songwriter,1834,10.78,True
+hard rock,1789,10.51,True
+experimental,1741,10.23,True
+metal,1729,10.16,True
+ambient,1699,9.98,True
+90s,1615,9.48,True
+new wave,1595,9.36,True
+seen live,1439,8.43,True
+chillout,1387,8.12,True
+hip-hop,1385,8.11,True
+punk,1311,7.67,True
+folk,1309,7.66,True
+electronica,1289,7.54,True
+rnb,1266,7.41,True
+instrumental,1203,7.03,True
+heavy metal,1108,6.47,True
+soul,1097,6.4,True
+acoustic,1045,6.09,True
+progressive rock,1038,6.05,True
+70s,1025,5.97,True
+jazz,984,5.73,True
+soundtrack,945,5.5,True
+male vocalists,925,5.38,True
+industrial,884,5.14,True
+trip-hop,876,5.09,True
+metalcore,867,5.04,True
+rap,860,4.99,True
+synthpop,847,4.92,True
+american,828,4.8,True
+hardcore,823,4.77,True
+indie pop,815,4.73,True
+pop rock,811,4.7,True
+00s,808,4.69,True
+britpop,765,4.43,True
+post-punk,757,4.38,True
+60s,745,4.31,True
+punk rock,744,4.31,True
+blues,705,4.07,True
+psychedelic,700,4.04,True
+downtempo,685,3.95,True
+beautiful,675,3.9,True
+sexy,665,3.84,True
+thrash metal,654,3.77,True
+idm,640,3.69,True
+post-rock,633,3.65,True
+electro,631,3.63,True
+awesome,625,3.6,True
+love,620,3.57,True
+mellow,595,3.42,True
+cover,583,3.35,True
+death metal,582,3.34,True
+female vocalist,579,3.33,True
+post-hardcore,567,3.25,True
+brazilian,565,3.24,True
+amazing,539,3.09,True
+pop punk,531,3.04,True
+country,514,2.94,True
+ebm,511,2.92,True
+progressive metal,506,2.89,True
+emo,505,2.89,True
+hip hop,504,2.88,True
+piano,478,2.73,True
+screamo,468,2.67,True
+trance,464,2.64,True
+funk,459,2.61,True
+classical,454,2.58,True
+nu metal,452,2.57,True
+favorites,448,2.55,True
+melodic death metal,433,2.46,True
+gothic,412,2.33,True
+grunge,408,2.31,True
+house,404,2.29,True
+german,394,2.23,True
+female,392,2.21,True
+canadian,388,2.19,True
+power metal,388,2.19,True
+techno,382,2.16,True
+ballad,381,2.15,True
+uk,377,2.13,True
+<3,355,1.99,True
+love at first listen,349,1.96,True
+cool,346,1.94,True
+french,341,1.91,True
+catchy,335,1.88,True
+deathcore,334,1.87,True
+japanese,331,1.85,True
+synth pop,327,1.83,True
+sad,315,1.76,True
+latin,313,1.75,True
+usa,312,1.74,True
+shoegaze,308,1.72,True
+reggae,306,1.7,True
+brasil,306,1.7,True
+black metal,301,1.67,True
+gothic metal,300,1.67,True
+epic,300,1.67,True
+electropop,296,1.64,True
+world,291,1.61,True
+favorite,289,1.6,True
+blues rock,288,1.6,True
+mpb,278,1.54,True
+minimal,272,1.5,True
+oldies,258,1.42,True
+progressive,256,1.41,True
+lounge,256,1.41,True
+covers,255,1.4,True
+darkwave,244,1.34,True
+disco,242,1.32,True
+new age,239,1.31,True
+symphonic metal,239,1.31,True
+classic,239,1.31,True
+avant-garde,238,1.3,True
+guitar,237,1.29,True
+dream pop,228,1.24,True
+atmospheric,227,1.23,True
+lo-fi,224,1.22,True
+noise,218,1.18,True
+psychedelic rock,218,1.18,True
+fun,217,1.18,True
+happy,213,1.15,True
+j-pop,212,1.15,True
+alternative metal,212,1.15,True
+swedish,211,1.14,True
+christian,210,1.13,True
+industrial metal,210,1.13,True
+soft rock,209,1.13,True
+chill,209,1.13,True
+remix,202,1.09,True
+romantic,200,1.07,True
+favorite songs,197,1.06,True
+english,195,1.04,True
+ska,193,1.03,True
+rock n roll,192,1.03,True
+spanish,190,1.01,True
+rock and roll,188,1.0,True
+urban,184,0.98,True
+j-rock,174,0.92,True
+grindcore,174,0.92,True
+russian,174,0.92,True
+legend,171,0.9,True
+sweet,170,0.9,True
+dreamy,168,0.88,True
+dark electro,168,0.88,True
+garage rock,168,0.88,True
+polish,168,0.88,True
+futurepop,167,0.88,True
+christian rock,167,0.88,True
+gothic rock,166,0.87,True
+doom metal,164,0.86,True
+hair metal,163,0.85,True
+melancholic,151,0.78,True
+disney,149,0.77,True
+hot,149,0.77,True
+powerpop,149,0.77,True
+glam rock,149,0.77,True
+relax,146,0.75,True
+party,145,0.75,True
+relaxing,144,0.74,True
+dark ambient,143,0.74,True
+perfect,143,0.74,True
+brazil,142,0.73,True
+new romantic,142,0.73,True
+italian,142,0.73,True
+icelandic,138,0.71,True
+emocore,138,0.71,True
+2008,137,0.7,True
+mathcore,134,0.68,True
+love songs,134,0.68,True
+love it,133,0.68,True
+guilty pleasures,132,0.67,True
+ethereal,132,0.67,True
+fucking awesome,132,0.67,True
+50s,131,0.66,True
+southern rock,130,0.66,True
+electroclash,129,0.65,True
+speed metal,128,0.65,True
+australian,127,0.64,True
+dub,126,0.63,True
+easy listening,126,0.63,True
+bossa nova,125,0.63,True
+favourites,125,0.63,True
+guilty pleasure,124,0.62,True
+cute,124,0.62,True
+christmas,124,0.62,True
+diva,123,0.62,True
+psytrance,122,0.61,True
+brutal death metal,122,0.61,True
+male vocalist,121,0.61,True
+2010,120,0.6,True
+finnish,120,0.6,True
+female fronted metal,118,0.59,True
+gossip girl,118,0.59,True
+melancholy,116,0.58,True
+progressive trance,115,0.57,True
+power pop,112,0.55,True
+indietronica,111,0.55,True
+summer,111,0.55,True
+brilliant,109,0.53,True
+gay,109,0.53,True
+post rock,109,0.53,True
+post-grunge,106,0.52,True
+top 40,106,0.52,True
+dark,106,0.52,True
+latin pop,104,0.5,True
+live,104,0.5,True
+best song ever,104,0.5,True
+technical death metal,104,0.5,True
+vocal,104,0.5,True
+lovely,103,0.5,True
+drum and bass,103,0.5,True
+halloween,103,0.5,True
+visual kei,101,0.49,True
+genius,101,0.49,True
+glam metal,101,0.49,True
+acoustic rock,100,0.48,True
+memories,99,0.47,True
+art rock,97,0.46,True
+male,96,0.46,True
+drone,96,0.46,True
+teen pop,96,0.46,True
+american idol,94,0.44,True
+korean,94,0.44,True
+goth,93,0.44,True
+rockabilly,93,0.44,True
+ultimate favorite,93,0.44,True
+club,92,0.43,True
+folk rock,90,0.42,True
+guitar virtuoso,90,0.42,True
+noise pop,90,0.42,True
+k-pop,88,0.41,True
+acid jazz,87,0.4,True
+turkish,87,0.4,True
+gospel,87,0.4,True
+scottish,87,0.4,True
+the vampire diaries,86,0.4,True
+the best,85,0.39,True
+80s pop,84,0.39,True
+addictive,84,0.39,True
+anime,84,0.39,True
+hardcore punk,83,0.38,True
+electro pop,82,0.37,True
+college rock,82,0.37,True
+underground hip-hop,81,0.37,True
+dubstep,81,0.37,True
+gangsta rap,81,0.37,True
+2009,81,0.37,True
+nice,80,0.36,True
+industrial rock,80,0.36,True
+world music,80,0.36,True
+indie luv,79,0.36,True
+songs for gil,79,0.36,True
+groove metal,79,0.36,True
+indie folk,78,0.35,True
+funny,78,0.35,True
+glam,78,0.35,True
+folk metal,77,0.34,True
+sex,77,0.34,True
+irish,76,0.34,True
+rain,76,0.34,True
+chill zone,76,0.34,True
+emotional,75,0.33,True
+melodic hardcore,75,0.33,True
+descoperiri,74,0.33,True
+4m4zinq,74,0.33,True
+stoner rock,74,0.33,True
+rhythm and blues,74,0.33,True
+nu-metal,74,0.33,True
+fantastic,73,0.32,True
+eurodance,73,0.32,True
+tbu,72,0.31,True
+psychedelic trance,71,0.31,True
+melrose place,71,0.31,True
+fav artists,71,0.31,True
+space rock,70,0.3,True
+americana,70,0.3,True
+rock hard,70,0.3,True
+barkbarkdisco,70,0.3,True
+jpop,69,0.3,True
+singalong,69,0.3,True
+other great tracks,69,0.3,True
+80's,69,0.3,True
+aana,68,0.29,True
+idolo,68,0.29,True
+new rave,67,0.28,True
+1992,67,0.28,True
+proto-punk,67,0.28,True
+friends,67,0.28,True
+post punk,66,0.28,True
+miserable,66,0.28,True
+norwegian,66,0.28,True
+smooth,66,0.28,True
+best,65,0.27,True
+f4nt4stic,65,0.27,True
+great song,65,0.27,True
+alt-country,64,0.27,True
+dance-pop,64,0.27,True
+ninja tune,64,0.27,True
+brazilian rock,64,0.27,True
+hit,64,0.27,True
+90210,63,0.26,True
+swing,63,0.26,True
+10s,63,0.26,True
+fav songs,62,0.25,True
+my fav songs,62,0.25,True
+great,62,0.25,True
+madonna,62,0.25,True
+cool as,62,0.25,True
+female vocals,62,0.25,True
+goa,62,0.25,True
+single,62,0.25,True
+favorite artist,61,0.25,True
+nu jazz,61,0.25,True
+asian,61,0.25,True
+ethnic,60,0.24,True
+faves,60,0.24,True
+england,60,0.24,True
+hard,59,0.24,True
+alsolike,59,0.24,True
+old school,59,0.24,True
+christmas blend,59,0.24,True
+favourite,59,0.24,True
+straight edge,58,0.23,True
+not emo,58,0.23,True
+composer,58,0.23,True
+special,58,0.23,True
+good shit,57,0.22,True
+best christmas songs,57,0.22,True
+prejebeno,57,0.22,True
+depeche mode,57,0.22,True
+summer song,57,0.22,True
+lpa,57,0.22,True
+my electro feelings,56,0.22,True
+comedy,56,0.22,True
+vocal trance,56,0.22,True
+slowies,56,0.22,True
+synth,56,0.22,True
+nwobhm,56,0.22,True
+check,56,0.22,True
+i love this song,55,0.21,True
+worship,55,0.21,True
+powerful,55,0.21,True
+dope,55,0.21,True
+british artists,55,0.21,True
+britney spears,55,0.21,True
+eldad,55,0.21,True
+jukebox project,55,0.21,True
+new wave and eighties,55,0.21,True
+electro-industrial,55,0.21,True
+for work,55,0.21,True
+pop covers,53,0.2,True
+twee,53,0.2,True
+pop-rock,52,0.2,True
+1991,52,0.2,True
+phat,52,0.2,True
+sick,52,0.2,True
+underrated,52,0.2,True
+progressive death metal,52,0.2,True
+crazy,52,0.2,True
+iron jesus,52,0.2,True
+masterpiece,52,0.2,True
+tinosoft,52,0.2,True
+favorite bands,52,0.2,True
+glitch,51,0.19,True
+berep shows the love,51,0.19,True
+old,51,0.19,True
+inlove,51,0.19,True
+oui fm,51,0.19,True
+piano rock,51,0.19,True
+duets,51,0.19,True
+specials to 3mmey,50,0.18,True
+great memories with my siss,50,0.18,True
+jrock,50,0.18,True
+90's,50,0.18,True
+nostalgic,50,0.18,True
+songs ive obsessed over,50,0.18,True
+noise rock,49,0.18,True
+dreampop,49,0.18,True
+celtic,49,0.18,True
+arabic,49,0.18,True
+sensual,49,0.18,True
+garage,49,0.18,True
+breakcore,49,0.18,True
+oh so catchy,49,0.18,True
+california,49,0.18,True
+album rock,49,0.18,True
+my favorites,49,0.18,True
+classic country,49,0.18,True
+all the best,49,0.18,True
+sxsw2006,49,0.18,True
+fave,48,0.17,True
+awesome-ness,48,0.17,True
+jamaica,48,0.17,True
+popular,48,0.17,True
+ich liebe dich,48,0.17,True
+want to see live,48,0.17,True
+loved,48,0.17,True
+female voices,48,0.17,True
+1980s,48,0.17,True
+beyonce,48,0.17,True
+remember him,47,0.17,True
+rock me babe,47,0.17,True
+tight,47,0.17,True
+favourite songs,47,0.17,True
+chanson francaise,47,0.17,True
+best songs of the 00s,47,0.17,True
+straight up modern rock,47,0.17,True
+listened more than 10 times in a row,46,0.16,True
+my favorite,46,0.16,True
+rapcore,46,0.16,True
+1982,46,0.16,True
+the beowulfs choice,46,0.16,True
+good old times,46,0.16,True
+instrumental hip-hop,46,0.16,True
+girl power,46,0.16,True
+twilight,45,0.15,True
+hypnotic,45,0.15,True
+jamaican,45,0.15,True
+energetic,45,0.15,True
+legends,45,0.15,True
+1981,45,0.15,True
+deutsch,45,0.15,True
+b-side,45,0.15,True
+songs i absolutely love,45,0.15,True
+riot grrrl,45,0.15,True
+1995,45,0.15,True
+new wave artists,45,0.15,True
+great lyrics,44,0.15,True
+melodic,44,0.15,True
+viking metal,44,0.15,True
+bi daha dinlicem,44,0.15,True
+bliss,44,0.15,True
+1996,44,0.15,True
+lol,44,0.15,True
+justin timberlake,44,0.15,True
+u2,44,0.15,True
+duet,44,0.15,True
+handclaps,43,0.14,True
+sludge,43,0.14,True
+film music composer,43,0.14,True
+the good stuff,43,0.14,True
+2007,43,0.14,True
+i am canadian,43,0.14,True
+barrelhouse covers,43,0.14,True
+new york,43,0.14,True
+math rock,42,0.14,True
+brazilian music,42,0.14,True
+ohmydamn,42,0.14,True
+r and b,42,0.14,True
+the truth,42,0.14,True
+1008,42,0.14,True
+better than metallica,42,0.14,True
+pop singles,42,0.14,True
+neon space,42,0.14,True
+real talk,42,0.14,True
+post hardcore,42,0.14,True
+baixar,42,0.14,True
+vfsix,42,0.14,True
+guitar solo,42,0.14,True
+france,41,0.13,True
+nelly furtado,41,0.13,True
+marisa mix,41,0.13,True
+hip hop/rap,41,0.13,True
+baroque,41,0.13,True
+harmonies,41,0.13,True
+melodic metal,41,0.13,True
+jet set radio future,41,0.13,True
+deep,41,0.13,True
+new weird america,41,0.13,True
+weekly top tracks,41,0.13,True
+breathtaking,41,0.13,True
+russian rock,41,0.13,True
+fusion,40,0.12,True
+0 play yet,40,0.12,True
+psychobilly,40,0.12,True
+let's dance,40,0.12,True
+rave,40,0.12,True
+nostalgia,40,0.12,True
+songs to download later,40,0.12,True
+i am in love with this song,40,0.12,True
+musical,40,0.12,True
+sufi,40,0.12,True
+play this loud enough to raise the dead,40,0.12,True
+one tree hill,40,0.12,True
+skins soundtrack,40,0.12,True
+bark,40,0.12,True
+russian alternative,39,0.12,True
+political,39,0.12,True
+trip hop,39,0.12,True
+goddesses,39,0.12,True
+gluhie 90e,39,0.12,True
+samba,39,0.12,True
+my angular favourites,39,0.12,True
+i love my dad taste,39,0.12,True
+the beatles,39,0.12,True
+hyper,39,0.12,True
+girlamazing,39,0.12,True
+kpop,38,0.11,True
+glee,38,0.11,True
+new country,38,0.11,True
+favorite bands and artists,38,0.11,True
+technical metal,38,0.11,True
+wonderful through headphones,38,0.11,True
+artists,38,0.11,True
+seventies,38,0.11,True
+acoustic guitar,38,0.11,True
+contemporary classical,38,0.11,True
+preferidas,38,0.11,True
+lefties,38,0.11,True
+mod,38,0.11,True
+mya,38,0.11,True
+jesus,38,0.11,True
+not-emo,38,0.11,True
+brandy,37,0.11,True
+weekly top artists,37,0.11,True
+trancecore,37,0.11,True
+launge,37,0.11,True
+00's,37,0.11,True
+rio grande do sul,37,0.11,True
+oscar winning songs,37,0.11,True
+heavy,37,0.11,True
+diego,37,0.11,True
+timbaland,37,0.11,True
+cities,37,0.11,True
+tweet,37,0.11,True
+bass,37,0.11,True
+8-bit,37,0.11,True
+manchester,37,0.11,True
+missy elliott,36,0.1,True
+top christian,36,0.1,True
+jams,36,0.1,True
+solid,36,0.1,True
+post-punk revival,36,0.1,True
+jazz fusion,36,0.1,True
+70's,36,0.1,True
+pop dance,36,0.1,True
+poignant,36,0.1,True
+thrash,36,0.1,True
+eclectic,36,0.1,True
+polish rock,36,0.1,True
+as,36,0.1,True
+2006,36,0.1,True
+contemporary rnb,36,0.1,True
+edit,36,0.1,True
+anti-folk,36,0.1,True
+love song,36,0.1,True
+abstract hip-hop,35,0.09,True
+alternative dance,35,0.09,True
+these songs are just amazing,35,0.09,True
+new wave songs,35,0.09,True
+diego 12,35,0.09,True
+fave songs ever,35,0.09,True
+best songs of the 70s,35,0.09,True
+east coast rap,35,0.09,True
+cesar,35,0.09,True
+jean marc toma,35,0.09,True
+lady gaga,35,0.09,True
+tyler adam,35,0.09,True
+title is a full sentence,35,0.09,True
+my fav fun,35,0.09,True
+redone,35,0.09,True
+heartbroke,34,0.09,True
+myfavoritesongs,34,0.09,True
+japan,34,0.09,True
+sexy songs,34,0.09,True
+best songs in the world,34,0.09,True
+the best classical opera and film scores,34,0.09,True
+saxophone,34,0.09,True
+neo-soul,34,0.09,True
+best songs of the 80s,34,0.09,True
+recos,34,0.09,True
+tags,34,0.09,True
+great lyricists,34,0.09,True
+delta blues,34,0.09,True
+scholes song,34,0.09,True
+retro,34,0.09,True
+egzamin,33,0.08,True
+motown,33,0.08,True
+best songs of the 50s,33,0.08,True
+1997,33,0.08,True
+leftovergrooves,33,0.08,True
+dance music,33,0.08,True
+random songs,33,0.08,True
+post-metal,33,0.08,True
+triple j,33,0.08,True
+neat,33,0.08,True
+mexico,33,0.08,True
+jesus 12,33,0.08,True
+ska punk,33,0.08,True
+yay,33,0.08,True
+duran duran,33,0.08,True
+rocksteady,33,0.08,True
+first-rate and free,33,0.08,True
+country ladies,33,0.08,True
+wicked women,33,0.08,True
+great moments at et7,33,0.08,True
+favourite artists,33,0.08,True
+rock gaucho,33,0.08,True
+aaliyah,32,0.08,True
+kiley dean,32,0.08,True
+excellent reason for crying,32,0.08,True
+my pleasuredome,32,0.08,True
+good mood music,32,0.08,True
+just chillin,32,0.08,True
+experimental rock,32,0.08,True
+ginuwine,32,0.08,True
+country pop,32,0.08,True
+mexican,32,0.08,True
+germany,32,0.08,True
+deep-clash,32,0.08,True
+favorite song,32,0.08,True
+beats,32,0.08,True
+rafa,32,0.08,True
+british invasion,32,0.08,True
+charmed,31,0.07,True
+rhythmalizm,31,0.07,True
+touching song,31,0.07,True
+autumn,31,0.07,True
+synth-pop,31,0.07,True
+pagan,31,0.07,True
+janet jackson,31,0.07,True
+80s hardcore,31,0.07,True
+winds of soul,31,0.07,True
+superb,31,0.07,True
+fascinating,31,0.07,True
+avant garde,31,0.07,True
+1966,31,0.07,True
+colors,31,0.07,True
+songs that remind me of summer 07-08,31,0.07,True
+electric blues,31,0.07,True
+new york shit,31,0.07,True
+adoracao,30,0.06,True
+wtf,30,0.06,True
+todaysart,30,0.06,True
+hiphop,30,0.06,True
+pastel,30,0.06,True
+deep house,30,0.06,True
+african,30,0.06,True
+approfondire,30,0.06,True
+the pedofinder general,30,0.06,True
+good mood songs,30,0.06,True
+humor,30,0.06,True
+female artists,30,0.06,True
+lostfreeq,30,0.06,True
+chef musinum,30,0.06,True
+dream,30,0.06,True
+country rock,30,0.06,True
+mistagged track,30,0.06,True
+kickass,29,0.06,True
+british punk,29,0.06,True
+deepclash,29,0.06,True
+nintendocore,29,0.06,True
+makes me wanna dance,29,0.06,True
+synthpop artists,29,0.06,True
+witch house,29,0.06,True
+zadrotstvo,29,0.06,True
+anarchist,29,0.06,True
+psychosis,29,0.06,True
+holiday soundtrack,29,0.06,True
+dance - trance,29,0.06,True
+late night tunes,29,0.06,True
+dope cut,29,0.06,True
+light trip-hop,29,0.06,True
+beast,29,0.06,True
+transport,29,0.06,True
+new beat,29,0.06,True
+ezbeni,29,0.06,True
+rock en espanol,29,0.06,True
+1990s,29,0.06,True
+perfection,29,0.06,True
+politeconomist realife soundtrack,29,0.06,True
+house music,28,0.05,True
+1981 songs,28,0.05,True
+1967,28,0.05,True
+ill,28,0.05,True
+riot grrl,28,0.05,True
+minimal techno,28,0.05,True
+progressive house,28,0.05,True
+banger,28,0.05,True
+dancehall,28,0.05,True
+2005,28,0.05,True
+freestyle,28,0.05,True
+i want to dance in my underwear,28,0.05,True
+bebop,28,0.05,True
+ottoman,28,0.05,True
+2000s,28,0.05,True
+breakbeat,28,0.05,True
+symphonic prog,28,0.05,True
+witty,27,0.05,True
+surf rock,27,0.05,True
+dance 00s,27,0.05,True
+mean,27,0.05,True
+prog metal,27,0.05,True
+raw,27,0.05,True
+funky,27,0.05,True
+good,27,0.05,True
+top100,27,0.05,True
+bouncy,27,0.05,True
+video game music,27,0.05,True
+harsh ebm,27,0.05,True
+best songs of the 90s,27,0.05,True
+1982 songs,27,0.05,True
+russia,27,0.05,True
+lastfm,27,0.05,True
+beatdown,27,0.05,True
+mine,27,0.05,True
+italian progressive rock,27,0.05,True
+dutch,27,0.05,True
+crossover,27,0.05,True
+opera,27,0.05,True
+1983 songs,27,0.05,True
+dnb,27,0.05,True
+great memories with my geeem,27,0.05,True
+my indie friends,27,0.05,True
+1964,27,0.05,True
+true norwegian black metal,26,0.04,True
+1970's,26,0.04,True
+hoy tengo ganas de llorar,26,0.04,True
+wish list,26,0.04,True
+sing along,26,0.04,True
+numbers,26,0.04,True
+ogonj,26,0.04,True
+quirky,26,0.04,True
+amazing voice,26,0.04,True
+turkce,26,0.04,True
+blitz playlist,26,0.04,True
+flamenco,26,0.04,True
+dark disco,26,0.04,True
+world fusion,26,0.04,True
+post modern,26,0.04,True
+viaje de egresados,26,0.04,True
+minimalism,26,0.04,True
+bitch,26,0.04,True
+vocalista feminimo,26,0.04,True
+summer time,26,0.04,True
+top,26,0.04,True
+1965,26,0.04,True
+queen of pop,26,0.04,True
+1990,26,0.04,True
+complete sentences,25,0.03,True
+europe,25,0.03,True
+freak folk,25,0.03,True
+symphonic black metal,25,0.03,True
+real hip-hop,25,0.03,True
+nu-jazz,25,0.03,True
+traditional,25,0.03,True
+queen,25,0.03,True
+chicago blues,25,0.03,True
+crunk,25,0.03,True
+driving music,25,0.03,True
+playlist,25,0.03,True
+novelty,25,0.03,True
+harmonica,25,0.03,True
+modern country,25,0.03,True
+independent,25,0.03,True
+q sexy,25,0.03,True
+coisa de deus,25,0.03,True
+powerful voice,25,0.03,True
+all time hit,25,0.03,True
+assertive,25,0.03,True
+deathrock,25,0.03,True
+best songs of the 60s,25,0.03,True
+best songs ever,25,0.03,True
+guerilla,25,0.03,True
+kelly rowland,25,0.03,True
+surf,25,0.03,True
+danish,25,0.03,True
+1970s,25,0.03,True
+monica,25,0.03,True
+animals,25,0.03,True
+adult contemporary,25,0.03,True
+grime,25,0.03,True
+synthpop songs,25,0.03,True
+downbeat,24,0.03,True
+male vocals,24,0.03,True
+song with samples,24,0.03,True
+drive,24,0.03,True
+musikfuerrundumdieuhr,24,0.03,True
+black music 4 black ppl listened 2 by white hipsters,24,0.03,True
+hooooooooot,24,0.03,True
+smooth jazz,24,0.03,True
+dirty south,24,0.03,True
+crust,24,0.03,True
+drugs,24,0.03,True
+hecho en mexico,24,0.03,True
+divas,24,0.03,True
+good stuff,24,0.03,True
+james bond,24,0.03,True
+po-kraftwerkski,24,0.03,True
+darkstep,24,0.03,True
+psychill,24,0.03,True
+bubba sparxxx,24,0.03,True
+fiya,24,0.03,True
+favorite artists,24,0.03,True
+poetry,24,0.03,True
+eighties,24,0.03,True
+spanish metal,23,0.02,True
+european,23,0.02,True
+warp,23,0.02,True
+in the witch house family,23,0.02,True
+better than lady gaga,23,0.02,True
+abstract,23,0.02,True
+obscure,23,0.02,True
+arkadi,23,0.02,True
+favourite bands,23,0.02,True
+ballads,23,0.02,True
+berep guest dj closedmouth 239645,23,0.02,True
+punkabilly,23,0.02,True
+the songs that make me sick with butterflies,23,0.02,True
+hand claps,23,0.02,True
+lyricism,23,0.02,True
+chillwave,23,0.02,True
+krautrock,23,0.02,True
+anti-witch house,22,0.02,True
+africa,22,0.02,True
+true black metal,22,0.02,True
+frauen und technik,22,0.02,True
+1969,22,0.02,True
+violin,22,0.02,True
+tron,22,0.02,True
+depressive black metal,22,0.02,True
+tech - prog death,22,0.02,True
+under 2000 listeners,22,0.02,True
+guitar blues,22,0.02,True
+blue,22,0.02,True
+rhymez,22,0.02,True
+good bands,22,0.02,True
+demo,22,0.02,True
+es pop mama,22,0.02,True
+melodic metalcore,22,0.02,True
+60's,22,0.02,True
+in the chillwave family,22,0.02,True
+death,22,0.02,True
+neofolk,22,0.02,True
+goth rock,22,0.02,True
+bad day,22,0.02,True
+norwegian black metal,21,0.01,True
+approved by goku,21,0.01,True
+top 20,21,0.01,True
+life on mars,21,0.01,True
+rockville ca,21,0.01,True
+nasheed,21,0.01,True
+approved by prince vegeta,21,0.01,True
+turkish rock,21,0.01,True
+2010s,21,0.01,True
+groove,21,0.01,True
+just makes you feel good,21,0.01,True
+90s dance,21,0.01,True
+boybands,21,0.01,True
+rihanna,21,0.01,True
+1984 songs,21,0.01,True
+shoegazer,21,0.01,True
+cocksucker,21,0.01,True
+1968,21,0.01,True
+female vocal,21,0.01,True
+math metal,21,0.01,True
+dance 90s,21,0.01,True
+fav female singers,20,0.01,True
+german hiphop,20,0.01,True
+us,20,0.01,True
+christina aguilera,20,0.01,True
+psicodelia,20,0.01,True
+the oc,20,0.01,True
+jazzy,20,0.01,True
+1980's,20,0.01,True
+free jazz,20,0.01,True
+1988,20,0.01,True
+songs i sing with my mom,20,0.01,True
+women,20,0.01,True
+4ad,20,0.01,True
+mariah carey,20,0.01,True
+chill out,20,0.01,True
+1986,20,0.01,True
+girls names,20,0.01,True
+new discovery,20,0.01,True
+acid,20,0.01,True
+pet shop boys,20,0.01,True
+arena rock,20,0.01,True
+male and female,20,0.01,True
+melodic black metal,20,0.01,True
+latin rock,20,0.01,True
+pretty little liars,20,0.01,True
+horror punk,19,-0.0,True
+makes me wanna kick someones ass,19,-0.0,True
+hello project,19,-0.0,True
+big beat,19,-0.0,True
+fucking amazing,19,-0.0,True
+tambourine,19,-0.0,True
+1994,19,-0.0,True
+orchestral,19,-0.0,True
+hey song youre so fucking cute,19,-0.0,True
+haunting,19,-0.0,True
+modern metal,19,-0.0,True
+watched live,19,-0.0,True
+harmonica blues,19,-0.0,True
+broken-clash,19,-0.0,True
+80s i like,19,-0.0,True
+beautiful music,19,-0.0,True
+totalmente foda,19,-0.0,True
+guys i would fuck,19,-0.0,True
+aussie,19,-0.0,True
+bazarov,19,-0.0,True
+horrorpunk,19,-0.0,True
+girl groups,19,-0.0,True
+boyband,19,-0.0,True
+american artists,19,-0.0,True
+japanese music,19,-0.0,True
+europop,19,-0.0,True
+contemporary jazz,19,-0.0,True
+rhythmic noise,19,-0.0,True
+instrumental blues,19,-0.0,True
+romantica,19,-0.0,True
+2003,19,-0.0,True
+raven girls top 20,19,-0.0,True
+britrock,19,-0.0,True
+phoda,19,-0.0,True
+finnish metal,19,-0.0,True
+morning,19,-0.0,True
+neo-electro,19,-0.0,True
+80s metal,19,-0.0,True
+pop-punk,19,-0.0,True
+drinking,18,-0.01,True
+united kingdom,18,-0.01,True
+norway,18,-0.01,True
+sixties,18,-0.01,True
+vaguely homosexual,18,-0.01,True
+cops,18,-0.01,True
+60s pop,18,-0.01,True
+these guys fucking rule,18,-0.01,True
+female electronic,18,-0.01,True
+nineties,18,-0.01,True
+underground,18,-0.01,True
+katy perry,18,-0.01,True
+buy this,18,-0.01,True
+inspirational,18,-0.01,True
+life unexpected,18,-0.01,True
+seen in concert,18,-0.01,True
+very kvlt,18,-0.01,True
+new album loves,18,-0.01,True
+deconstruction,18,-0.01,True
+beatiful,18,-0.01,True
+fuck yeah,18,-0.01,True
+songwriters,18,-0.01,True
+1960's,18,-0.01,True
+words are cheap to describe my love,18,-0.01,True
+puta de mierda ojala y te mueras con un pinche dildo electrico atorado en tu ronosa pucha,18,-0.01,True
+new,18,-0.01,True
+dj gold,18,-0.01,True
+xmas,18,-0.01,True
+turntablism,18,-0.01,True
+religion,18,-0.01,True
+desert,18,-0.01,True
+rainy day,18,-0.01,True
+cybergrind,18,-0.01,True
+titans,17,-0.01,True
+choral,17,-0.01,True
+slowcore,17,-0.01,True
+loved tracks,17,-0.01,True
+brooklyn,17,-0.01,True
+blue-eyed soul,17,-0.01,True
+1984,17,-0.01,True
+ultimate rock ballads,17,-0.01,True
+all time faves,17,-0.01,True
+paramore,17,-0.01,True
+latino,17,-0.01,True
+days,17,-0.01,True
+italian pop,17,-0.01,True
+tamir,17,-0.01,True
+1960s,17,-0.01,True
+polecane,17,-0.01,True
+crime,17,-0.01,True
+best free stuff,17,-0.01,True
+slow,17,-0.01,True
+electro house,17,-0.01,True
+avant-garde metal,17,-0.01,True
+sweden,17,-0.01,True
+japanese pop,17,-0.01,True
+musica popular brasileira,17,-0.01,True
+best bands,17,-0.01,True
+australia,17,-0.01,True
+ladytronica,17,-0.01,True
+makes me cry,17,-0.01,True
+sahara,17,-0.01,True
+folk-rock,17,-0.01,True
+lesser known yet streamable artists,17,-0.01,True
+fashionably punctuated band,17,-0.01,True
+crap,17,-0.01,True
+music for my soul,17,-0.01,True
+witch chill,17,-0.01,True
+b-sides,17,-0.01,True
+indierock,17,-0.01,True
+seth cohen would listen to this,17,-0.01,True
+music,17,-0.01,True
+i love,17,-0.01,True
+forever in heart,17,-0.01,True
+great voice,17,-0.01,True
+deutschland,16,-0.02,True
+1980 songs,16,-0.02,True
+italy,16,-0.02,True
+chaotic hardcore,16,-0.02,True
+funk rock,16,-0.02,True
+a god on the earth,16,-0.02,True
+1985 songs,16,-0.02,True
+roots reggae,16,-0.02,True
+miley cyrus,16,-0.02,True
+bruno likes this song,16,-0.02,True
+new jersey,16,-0.02,True
+dazs favourites,16,-0.02,True
+witch-clash,16,-0.02,True
+terrorbanana,16,-0.02,True
+techno brut,16,-0.02,True
+wales,16,-0.02,True
+spanish rock,16,-0.02,True
+wake up,16,-0.02,True
+smash it up,16,-0.02,True
+mute records,16,-0.02,True
+ethno,16,-0.02,True
+countries,16,-0.02,True
+absolute disco,16,-0.02,True
+brit rock,16,-0.02,True
+eurovision,16,-0.02,True
+french pop,16,-0.02,True
+1950s,16,-0.02,True
+i am a party girl here is my soundtrack,16,-0.02,True
+old school death metal,16,-0.02,True
+70s pop,16,-0.02,True
+uplifting,16,-0.02,True
+i love dancing about to this like a complete and utter idiot,16,-0.02,True
+under two minutes,16,-0.02,True
+2004,16,-0.02,True
+albums i own,16,-0.02,True
+wake up song,16,-0.02,True
+medieval,16,-0.02,True
+neoclassical,16,-0.02,True
+1970,16,-0.02,True
+lastfm hipster artists,16,-0.02,True
+tuareg,16,-0.02,True
+greek,16,-0.02,True
+swedish metal,16,-0.02,True
+american punk,16,-0.02,True
+rock ballad,16,-0.02,True
+favourite albums,16,-0.02,True
+songs to make florchuchizz cry,16,-0.02,True
+david guetta,16,-0.02,True
+drum n bass,16,-0.02,True
+trashbag filled with vomit,15,-0.02,True
+great covers,15,-0.02,True
+upbeat,15,-0.02,True
+gold,15,-0.02,True
+eletropop,15,-0.02,True
+addiction,15,-0.02,True
+hellcats,15,-0.02,True
+composers,15,-0.02,True
+rock nacional,15,-0.02,True
+futuremelon,15,-0.02,True
+soundtrack of my childhood,15,-0.02,True
+lunic,15,-0.02,True
+icon,15,-0.02,True
+ethnic chill,15,-0.02,True
+dance rock,15,-0.02,True
+spring,15,-0.02,True
+1993,15,-0.02,True
+feelgood,15,-0.02,True
+fifties,15,-0.02,True
+clasica,15,-0.02,True
+brooke fraser,15,-0.02,True
+spiritual,15,-0.02,True
+40s,15,-0.02,True
+alternative pop,15,-0.02,True
+bobbi,15,-0.02,True
+fav tracks,15,-0.02,True
+songs diana sang on x factor,15,-0.02,True
+traditional country,15,-0.02,True
+rio,15,-0.02,True
+donna,15,-0.02,True
+1990's,15,-0.02,True
+cars,15,-0.02,True
+catchy as hell,15,-0.02,True
+euro 90s,15,-0.02,True
+coldplay,15,-0.02,True
+muse,15,-0.02,True
+j-music,15,-0.02,True
+rock 'n' roll,15,-0.02,True
+tech house,15,-0.02,True
+btvs,15,-0.02,True
+originals,15,-0.02,True
+blissrock,15,-0.02,True
+time,15,-0.02,True
+seattle,15,-0.02,True
+orgasm,15,-0.02,True
+keep ya calm,15,-0.02,True
+1986 songs,15,-0.02,True
+tracks i want to see on lastfm,14,-0.03,True
+dance party,14,-0.03,True
+ragga,14,-0.03,True
+pop princess,14,-0.03,True
+defiant,14,-0.03,True
+shit,14,-0.03,True
+pretty,14,-0.03,True
+covers that are actually good,14,-0.03,True
+quran,14,-0.03,True
+eargasm,14,-0.03,True
+full-on,14,-0.03,True
+vocalist,14,-0.03,True
+finger snapping,14,-0.03,True
+lips songs,14,-0.03,True
+sertanejo,14,-0.03,True
+sleaze rock,14,-0.03,True
+unreleased,14,-0.03,True
+danceable,14,-0.03,True
+must have,14,-0.03,True
+soothing,14,-0.03,True
+oshare kei,14,-0.03,True
+post metal,14,-0.03,True
+classical guitar,14,-0.03,True
+etheric,14,-0.03,True
+50's,14,-0.03,True
+chile,14,-0.03,True
+fail,14,-0.03,True
+oni pout,14,-0.03,True
+brit-pop,14,-0.03,True
+electroclash ingredients,14,-0.03,True
+kick ass,14,-0.03,True
+grave stompers,14,-0.03,True
+songs i can actually listen to on repeat,14,-0.03,True
+noisecore,14,-0.03,True
+punk pop,14,-0.03,True
+lag,14,-0.03,True
+the fact that this is the name of a band makes me want to check their music out even though i do not care much for indie pop,14,-0.03,True
+to write love on my arms,14,-0.03,True
+perfect lyrics,14,-0.03,True
+modern rock,14,-0.03,True
+hard rock - metal,14,-0.03,True
+i listened to it over and over again,14,-0.03,True
+favorite albums,14,-0.03,True
+synth wave,14,-0.03,True
+infatuation,14,-0.03,True
+boys names,14,-0.03,True
+breakup music,14,-0.03,True
+eminem,14,-0.03,True
+street punk,14,-0.03,True
+wistful,14,-0.03,True
+50s rock revival,14,-0.03,True
+anthemic,14,-0.03,True
+i buy singles for b-sides like this,14,-0.03,True
+i fucking love this song,14,-0.03,True
+bandas venezolanas,14,-0.03,True
+musical genres,14,-0.03,True
+skinhead reggae,14,-0.03,True
+1989,14,-0.03,True
+space,14,-0.03,True
+chanson,14,-0.03,True
+just could not get any better,14,-0.03,True
+fav song,14,-0.03,True
+axe,14,-0.03,True
+but the party dont stop,14,-0.03,True
+roy,14,-0.03,True
+intense,14,-0.03,True
+1987,14,-0.03,True
+drug music,13,-0.04,True
+mistagged artist,13,-0.04,True
+eletronic,13,-0.04,True
+big band,13,-0.04,True
+jangle pop,13,-0.04,True
+avantgarde,13,-0.04,True
+devrim,13,-0.04,True
+progressive deathcore,13,-0.04,True
+war,13,-0.04,True
+dance dance dance,13,-0.04,True
+dance-punk,13,-0.04,True
+winter,13,-0.04,True
+my 500 essential songs,13,-0.04,True
+tiger,13,-0.04,True
+my loving,13,-0.04,True
+jam,13,-0.04,True
+good music,13,-0.04,True
+the fucking best,13,-0.04,True
+raw black metal,13,-0.04,True
+taylor swift,13,-0.04,True
+officially shit,13,-0.04,True
+songs i never get sick of,13,-0.04,True
+1979 songs,13,-0.04,True
+smooth night driving,13,-0.04,True
+scrubs,13,-0.04,True
+electro-pop,13,-0.04,True
+soon to be classic,13,-0.04,True
+awesome guitar jams,13,-0.04,True
+scifi,13,-0.04,True
+awsome,13,-0.04,True
+this light,13,-0.04,True
+talented,13,-0.04,True
+pop metal,13,-0.04,True
+heart,13,-0.04,True
+indian,13,-0.04,True
+for days when i am particularly angry with you,13,-0.04,True
+doo wop,13,-0.04,True
+heavy rock,13,-0.04,True
+ohm sweet ohm,13,-0.04,True
+movie songs,13,-0.04,True
+rb,13,-0.04,True
+berber,13,-0.04,True
+syncretic,13,-0.04,True
+dance pop,13,-0.04,True
+ramonescore,13,-0.04,True
+nejlepsi,13,-0.04,True
+my own private sunshine,13,-0.04,True
+movie score composers,13,-0.04,True
+great songs,13,-0.04,True
+groovy,13,-0.04,True
+childhood memories,13,-0.04,True
+valentines day,13,-0.04,True
+club classics,13,-0.04,True
+stoner,13,-0.04,True
+mashup,13,-0.04,True
+kabyle,13,-0.04,True
+russian pop,13,-0.04,True
+moshcore,13,-0.04,True
+marrakech,12,-0.04,True
+party time,12,-0.04,True
+broadway,12,-0.04,True
+west coast,12,-0.04,True
+reggaeton,12,-0.04,True
+detroit,12,-0.04,True
+unforgettable,12,-0.04,True
+pop music,12,-0.04,True
+beach music,12,-0.04,True
+best songs of 1900 to 1950,12,-0.04,True
+killer riffing,12,-0.04,True
+asian pop,12,-0.04,True
+american underground,12,-0.04,True
+derd,12,-0.04,True
+best of 80s,12,-0.04,True
+1940s,12,-0.04,True
+dramatic,12,-0.04,True
+shock rock,12,-0.04,True
+personal,12,-0.04,True
+hilarious,12,-0.04,True
+essential instrumental versions,12,-0.04,True
+indie-romantic,12,-0.04,True
+soulful house,12,-0.04,True
+linda,12,-0.04,True
+ashley tisdale,12,-0.04,True
+progressive metalcore,12,-0.04,True
+folk - folkrock - altcountry,12,-0.04,True
+twee pop,12,-0.04,True
+mix,12,-0.04,True
+cute but slightly sinister,12,-0.04,True
+need to see live,12,-0.04,True
+darkside,12,-0.04,True
+girl name songs,12,-0.04,True
+depressive,12,-0.04,True
+deutschrock,12,-0.04,True
+epic metal,12,-0.04,True
+laxative,12,-0.04,True
+bu grubu hic duymamistim,12,-0.04,True
+new york punk,12,-0.04,True
+futurepop anthem,12,-0.04,True
+cryptofa,12,-0.04,True
+chris brown,12,-0.04,True
+group,12,-0.04,True
+malaysia idol,12,-0.04,True
+drum,12,-0.04,True
+romance,12,-0.04,True
+tianguiscore,12,-0.04,True
+songwriter,12,-0.04,True
+70,12,-0.04,True
+to sing,12,-0.04,True
+italia,12,-0.04,True
+r'n'b,12,-0.04,True
+none,12,-0.04,True
+hans,12,-0.04,True
+babs,12,-0.04,True
+beautiful female vocalist,12,-0.04,True
+we should be together,12,-0.04,True
+powerfull voices,12,-0.04,True
+garth,12,-0.04,True
+fuck u bitch,12,-0.04,True
+david bowie,12,-0.04,True
+angelic,12,-0.04,True
+meditative,12,-0.04,True
+argentina,12,-0.04,True
+brings out the kid in me,12,-0.04,True
+chick music,12,-0.04,True
+makes me happy,12,-0.04,True
+energy,12,-0.04,True
+1963,12,-0.04,True
+los angeles,12,-0.04,True
+feel good,12,-0.04,True
+free,12,-0.04,True
+exhilarating,12,-0.04,True
+calming,12,-0.04,True
+female vocalists i like,12,-0.04,True
+garden state soundtrack,12,-0.04,True
+canada,12,-0.04,True
+super,12,-0.04,True
+all time favorites,11,-0.05,True
+six feet under soundtrack,11,-0.05,True
+80s new wave,11,-0.05,True
+xcause,11,-0.05,True
+questions,11,-0.05,True
+songs to listen to on a sunny day,11,-0.05,True
+thrash till death,11,-0.05,True
+wu-tang,11,-0.05,True
+pure aural sex,11,-0.05,True
+one of their best,11,-0.05,True
+hidden gem,11,-0.05,True
+deep-electro,11,-0.05,True
+ilahi,11,-0.05,True
+so gossip girl,11,-0.05,True
+knarziges klickgefrickel,11,-0.05,True
+setentas,11,-0.05,True
+whitenoize,11,-0.05,True
+setenta,11,-0.05,True
+the cure,11,-0.05,True
+jungle,11,-0.05,True
+belgian,11,-0.05,True
+80s awesome,11,-0.05,True
+songs i sing in the shower,11,-0.05,True
+breakup songs,11,-0.05,True
+i love 80s,11,-0.05,True
+aman tanrim,11,-0.05,True
+best songs of music i already own,11,-0.05,True
+chill witch,11,-0.05,True
+australian rock,11,-0.05,True
+dance with somebody,11,-0.05,True
+north africa,11,-0.05,True
+taking over my mind,11,-0.05,True
+stand out be proud,11,-0.05,True
+my childhood,11,-0.05,True
+trevor horn,11,-0.05,True
+her best,11,-0.05,True
+great riff,11,-0.05,True
+worth a second look,11,-0.05,True
+diy,11,-0.05,True
+christian metal,11,-0.05,True
+clint,11,-0.05,True
+simon,11,-0.05,True
+softspoken,11,-0.05,True
+wca,11,-0.05,True
+classic blues,11,-0.05,True
+coffeeshop,11,-0.05,True
+the best songs of the world,11,-0.05,True
+8bit,11,-0.05,True
+aphex twin,11,-0.05,True
+disney girl,11,-0.05,True
+band,11,-0.05,True
+move your body,11,-0.05,True
+marissa cooper,11,-0.05,True
+science,11,-0.05,True
+oriental,11,-0.05,True
+pop bitch,11,-0.05,True
+vocal jazz,11,-0.05,True
+just good music,11,-0.05,True
+legendary,11,-0.05,True
+mythos,11,-0.05,True
+god,11,-0.05,True
+ska revival,11,-0.05,True
+rabat,11,-0.05,True
+psybient,11,-0.05,True
+favorite tracks,11,-0.05,True
+oran,11,-0.05,True
+i was fighting with myself not to listen to it but i lost,11,-0.05,True
+songs for sssi,11,-0.05,True
+megasound,11,-0.05,True
+algeria,11,-0.05,True
+the worst thing ever to happen to music,11,-0.05,True
+tanger,11,-0.05,True
+suicidal black metal,11,-0.05,True
+world groove,11,-0.05,True
+makes me smile,11,-0.05,True
+so beautiful i could seriously cry,11,-0.05,True
+show woman,11,-0.05,True
+skream out loud,11,-0.05,True
+great intro,11,-0.05,True
+heard on 30 jul 06 downtempo sampler radio,11,-0.05,True
+post-electroclash,11,-0.05,True
+extreme metal,11,-0.05,True
+weirdness,11,-0.05,True
+metallica,11,-0.05,True
+erotic,11,-0.05,True
+spain,11,-0.05,True
+riot boii,11,-0.05,True
+technical deathcore,11,-0.05,True
+jay-z,11,-0.05,True
+techno pop,11,-0.05,True
+weird,11,-0.05,True
+leeds,11,-0.05,True
+killer drums,11,-0.05,True
+folk punk,11,-0.05,True
+oi,11,-0.05,True
+electric,11,-0.05,True
+bluegrass,11,-0.05,True
+michael jackson,10,-0.05,True
+lebanese,10,-0.05,True
+rahmanin bulbulleri,10,-0.05,True
+uk hip hop,10,-0.05,True
+cuerdas,10,-0.05,True
+apocalyptic,10,-0.05,True
+precious,10,-0.05,True
+backstage rock shop artist,10,-0.05,True
+neo-pop,10,-0.05,True
+flute,10,-0.05,True
+popstars,10,-0.05,True
+old skool,10,-0.05,True
+rocker chick,10,-0.05,True
+1983,10,-0.05,True
+legal,10,-0.05,True
+outsiders,10,-0.05,True
+violence,10,-0.05,True
+bitch song,10,-0.05,True
+chinese,10,-0.05,True
+finland,10,-0.05,True
+headphones,10,-0.05,True
+romantic rock,10,-0.05,True
+cool jazz,10,-0.05,True
+modern-classic,10,-0.05,True
+fierce,10,-0.05,True
+songs to feel happy to,10,-0.05,True
+sex rock,10,-0.05,True
+tag your songs properly,10,-0.05,True
+post electroclash,10,-0.05,True
+trash metal,10,-0.05,True
+bubblegum,10,-0.05,True
+italo disco,10,-0.05,True
+gorgeous,10,-0.05,True
+instrumental rock,10,-0.05,True
+christian music,10,-0.05,True
+italiana,10,-0.05,True
+rock porto alegre,10,-0.05,True
+please let me lick you,10,-0.05,True
+i saw them live,10,-0.05,True
+overrated,10,-0.05,True
+best of 2008,10,-0.05,True
+could be mistaken for sth else,10,-0.05,True
+scandinavian,10,-0.05,True
+2 meter sessies,10,-0.05,True
+aggrotech,10,-0.05,True
+live music archive,10,-0.05,True
+hard-heavy rock,10,-0.05,True
+beatdown hardcore,10,-0.05,True
+orgasmic,10,-0.05,True
+buenisisimisima,10,-0.05,True
+shakira,10,-0.05,True
+idol,10,-0.05,True
+liverpool,10,-0.05,True
+percussion,10,-0.05,True
+myfavorites-singers,10,-0.05,True
+fav male singers,10,-0.05,True
+electro rock,10,-0.05,True
+best unknown bands tracks to be observed,10,-0.05,True
+symphonic rock,10,-0.05,True
+whimsical,10,-0.05,True
+stones throw,10,-0.05,True
+no genre can describe,10,-0.05,True
+bond,10,-0.05,True
+welsh,10,-0.05,True
+90s rock,10,-0.05,True
+brings back memories,10,-0.05,True
+fucking epic,10,-0.05,True
+rock-pop,10,-0.05,True
+letmelikeit,10,-0.05,True
+morr music,10,-0.05,True
+interesting,10,-0.05,True
+idols,10,-0.05,True
+radiohead,10,-0.05,True
+soft,10,-0.05,True
+amor,10,-0.05,True
+stoner metal,10,-0.05,True
+80s rock,10,-0.05,True
+alger,10,-0.05,True
+sousse,10,-0.05,True
+breaks,10,-0.05,True
+bittersweet pop,10,-0.05,True
+rolling stones top 500,10,-0.05,True
+love this song,10,-0.05,True
+quod me nutrit me destruit,10,-0.05,True
+melancolia,10,-0.05,True
+roma,10,-0.05,True
+goregrind,10,-0.05,True
+death-thrash metal,10,-0.05,True
+instrumentals,10,-0.05,True
+d-beat,10,-0.05,True
+songs that make you want to sing along,9,-0.06,True
+dark wave,9,-0.06,True
+autechre,9,-0.06,True
+eastern europe rock,9,-0.06,True
+just some guy,9,-0.06,True
+gorgeousity,9,-0.06,True
+hot rockin girl,9,-0.06,True
+west yorkshire,9,-0.06,True
+nyc,9,-0.06,True
+books,9,-0.06,True
+field recordings,9,-0.06,True
+veronica mars,9,-0.06,True
+west african,9,-0.06,True
+finale montage,9,-0.06,True
+king of pop,9,-0.06,True
+italian rock,9,-0.06,True
+amazing vocal,9,-0.06,True
+microsound,9,-0.06,True
+make me feel better,9,-0.06,True
+rock'n'roll,9,-0.06,True
+multiculti,9,-0.06,True
+cover songs,9,-0.06,True
+music for tossing furniture around,9,-0.06,True
+maghreb,9,-0.06,True
+love metal,9,-0.06,True
+songs that you wanna listen to over and over again,9,-0.06,True
+groovesuspects,9,-0.06,True
+new romantic songs,9,-0.06,True
+best band ever,9,-0.06,True
+humour,9,-0.06,True
+soundscape,9,-0.06,True
+more plays please,9,-0.06,True
+christian metalcore,9,-0.06,True
+portugues,9,-0.06,True
+music to cry,9,-0.06,True
+drum machine,9,-0.06,True
+makes you wanna dance all around your room,9,-0.06,True
+bay area,9,-0.06,True
+dance punk,9,-0.06,True
+world pop,9,-0.06,True
+jazz sax,9,-0.06,True
+maghrebi,9,-0.06,True
+quiet walk,9,-0.06,True
+gay icons,9,-0.06,True
+mexican pop,9,-0.06,True
+i wish i could make a video for this,9,-0.06,True
+newbreed,9,-0.06,True
+american metal,9,-0.06,True
+70ss,9,-0.06,True
+alternative hip-hop,9,-0.06,True
+muslim,9,-0.06,True
+death trash grindcore metal,9,-0.06,True
+new zealand rock,9,-0.06,True
+neo-psychedelia,9,-0.06,True
+hilary duff,9,-0.06,True
+featuring,9,-0.06,True
+lungbutter,9,-0.06,True
+light,9,-0.06,True
+ska rocksteady,9,-0.06,True
+black eyed peas,9,-0.06,True
+magic,9,-0.06,True
+hang on,9,-0.06,True
+garage revival,9,-0.06,True
+live recording,9,-0.06,True
+music from the oc,9,-0.06,True
+anointed,9,-0.06,True
+1998,9,-0.06,True
+afrobeat,9,-0.06,True
+mellow rock,9,-0.06,True
+beautiful lyrics,9,-0.06,True
+jao bejbe,9,-0.06,True
+hc,9,-0.06,True
+wicked,9,-0.06,True
+new wave of british heavy metal,9,-0.06,True
+lily,9,-0.06,True
+relaxing muscles,9,-0.06,True
+famous persons,9,-0.06,True
+favorite band,9,-0.06,True
+classical crossover,9,-0.06,True
+cabaret,9,-0.06,True
+game soundtrack,9,-0.06,True
+living legend,9,-0.06,True
+winnipeg,9,-0.06,True
+porque te vas,9,-0.06,True
+makes me smile like an idiot,9,-0.06,True
+classic house,9,-0.06,True
+80er,9,-0.06,True
+wonky,9,-0.06,True
+spanish pop,9,-0.06,True
+celine dion,9,-0.06,True
+sheffield,9,-0.06,True
+beautiful voice,9,-0.06,True
+soulful,9,-0.06,True
+hillbilly,9,-0.06,True
+cigarettes,9,-0.06,True
+thick as fuck,9,-0.06,True
+avril lavigne,9,-0.06,True
+atmospheric black metal,9,-0.06,True
+pop/rock,9,-0.06,True
