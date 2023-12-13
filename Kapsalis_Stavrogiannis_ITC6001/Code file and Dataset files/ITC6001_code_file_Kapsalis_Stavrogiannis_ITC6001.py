@@ -181,6 +181,7 @@ plt.show()
 # So, the use of this method in this case doesn't bring up trustworthy resutls 
 
 
+
 ### frequency of tag usage 
 q3_ = res1_b_final['count'].quantile(q=0.75)
 q1_ = res1_b_final['count'].quantile(q=0.25)
@@ -322,17 +323,6 @@ plt.title('Top Ten Users Based on Average Similarity')
 plt.yscale('log')  # Set the y-axis to a logarithmic scale
 plt.show()
 
-# Find and print the user with the highest average similarity
-max_similarity_user = max(user_avg_similarity_k3, key=user_avg_similarity_k3.get)
-print(f"\nUser with Highest Average Similarity: {max_similarity_user}, Average Similarity Value: {user_avg_similarity_k3[max_similarity_user]}")
-
-# Find and print the user with the lowest average similarity
-min_similarity_user = min(user_avg_similarity_k3, key=user_avg_similarity_k3.get)
-print(f"User with Lowest Average Similarity: {min_similarity_user}, Average Similarity Value: {user_avg_similarity_k3[min_similarity_user]}")
-
-# Calculate and print the mean average similarity for all users
-mean_avg_similarity = sum(user_avg_similarity_k3.values()) / len(user_avg_similarity_k3)
-print(f"Mean Average Similarity for All Users: {mean_avg_similarity}")
 
 
 
@@ -360,19 +350,6 @@ plt.ylabel('Average Similarity (Log Scale)')
 plt.title('Top Ten Users Based on Average Similarity with their k neighbors (k=10)')
 plt.yscale('log')  # Set the y-axis to a logarithmic scale
 plt.show()
-
-# Find and print the user with the highest average similarity
-max_similarity_user_10 = max(user_avg_similarity_k10, key=user_avg_similarity_k10.get)
-print(f"\nUser with Highest Average Similarity: {max_similarity_user}, Average Similarity Value: {user_avg_similarity_k10[max_similarity_user]}")
-
-# Find and print the user with the lowest average similarity
-min_similarity_user_10= min(user_avg_similarity_k10, key=user_avg_similarity_k10.get)
-print(f"User with Lowest Average Similarity: {min_similarity_user}, Average Similarity Value: {user_avg_similarity_k10[min_similarity_user]}")
-
-# Calculate and print the mean average similarity for all users
-mean_avg_similarity_10 = sum(user_avg_similarity_k10.values()) / len(user_avg_similarity_k10)
-print(f"Mean Average Similarity for All Users: {mean_avg_similarity}")
-
 
 
 
@@ -608,7 +585,7 @@ print(f"The tags figuring most often at the top of quarterly rankings have as fo
 
 
 
-###################################  Q4  code   ################################
+###################################################################
 
 #Creating the dataframes for friends and users AND for artists and users
 df_artists= pd.read_csv('user_artists.dat', sep='\t', encoding=None, names=None, header=0, index_col=None)
