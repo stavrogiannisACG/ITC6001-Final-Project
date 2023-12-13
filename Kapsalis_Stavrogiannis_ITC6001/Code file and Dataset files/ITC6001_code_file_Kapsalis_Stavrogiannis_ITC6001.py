@@ -209,7 +209,7 @@ plt.show()
 ##################################### Q2 Part 1 ###############################################
 
 #Read the data and store to dataframe
-df = pd.read_csv('user_artists.dat', sep='\\t', encoding=None, names=None, header=0, index_col=None)
+df = pd.read_csv('user_artists.dat', sep='\t', encoding=None, names=None, header=0, index_col=None)
 
 
 # Create a pivot table without filling missing values
