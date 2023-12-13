@@ -181,7 +181,6 @@ plt.show()
 # So, the use of this method in this case doesn't bring up trustworthy resutls 
 
 
-
 ### frequency of tag usage 
 q3_ = res1_b_final['count'].quantile(q=0.75)
 q1_ = res1_b_final['count'].quantile(q=0.25)
